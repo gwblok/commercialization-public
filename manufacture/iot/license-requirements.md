@@ -22,7 +22,7 @@ If you are handling the maintenance and upkeep of commercialized devices on your
  
 To start your commercialization journey with SAC, you will need to sign a license, which you will need to request the license agreement [here](https://www.aka.ms/SAC-agreement). A member of the team will get back to you with the agreement form within 48 to 72 hours.  
 
-You can view a copy of this agreement before requesting to sign it [here](https://az835927.vo.msecnd.net/sites/iot/Resources/documents/Commercial-License.pdf). 
+You can view a copy of this agreement before requesting to sign it [here](https://go.microsoft.com/fwlink/?linkid=2052761). 
 
 
 ## SMBIOS Support
