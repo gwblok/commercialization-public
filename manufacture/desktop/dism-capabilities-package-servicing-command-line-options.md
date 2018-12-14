@@ -41,7 +41,7 @@ Note, each of these commands requires either the **/Online** or **/Image:**&lt;*
 <td align="left"><p><strong>/Add-Capability</strong></p>
 <p><strong>/CapabilityName:</strong>&lt;<em>capability_name</em>&gt; <strong>[/Source:</strong>&lt;<em>source</em>&gt;<strong>] [/LimitAccess]</strong></p></td>
 <td align="left">Adds a capability to an image.
-<p>Example:</p><p><strong>Dism /Online /Add-Capability /CapabilityName:Language.Basic<del>~en-US~0.0.1.0</strong></p>
+<p>Example:</p><p><strong>Dism /Online /Add-Capability /CapabilityName:Language.Basic~~~en-US~0.0.1.0</strong></p>
 <div class="alert">
 <strong>Note</strong>  DISM checks for the source files in the following order:
 <ol>
@@ -54,9 +54,9 @@ Note, each of these commands requires either the **/Online** or **/Image:**&lt;*
  
 </div>
 <p><strong>/Source</strong>: Allows you to choose a location, such as a server, where the capability source files are located. You can use multiple <strong>/Source</strong> arguments.</p>
-<p>Example:</p><p><strong>Dism /Online /Add-Capability /CapabilityName:Language.Basic</del>~en-US~0.0.1.0 /Source:\server\share /Source:\server2\share</strong></p>
+<p>Example:</p><p><strong>Dism /Online /Add-Capability /CapabilityName:Language.Basic~~~en-US~0.0.1.0 /Source:\server\share /Source:\server2\share</strong></p>
 <p><strong>/LimitAccess</strong>: Tells DISM to not check Windows Update or Windows Server Update Services for the capability source files.</p>
-<p>Example:</p><p><strong>Dism /Online /Add-Capability /CapabilityName:Language.Basic<del>~en-US~0.0.1.0 /Source:\server\share /LimitAccess</strong></p></td>
+<p>Example:</p><p><strong>Dism /Online /Add-Capability /CapabilityName:Language.Basic~~~en-US~0.0.1.0 /Source:\server\share /LimitAccess</strong></p></td>
 </tr>
 <tr class="even">
 <td align="left"><strong>/Get-Capabilities</strong></td>
@@ -73,7 +73,7 @@ Note, each of these commands requires either the **/Online** or **/Image:**&lt;*
 <tr class="even">
 <td align="left"><p><strong>/Remove-Capability</strong></p>
 <p><strong>/CapabilityName:</strong>&lt;<em>capability_name</em>&gt;</p></td>
-<td align="left"><p>Example:</p><p><strong>Dism /Online /Remove-Capability /CapabilityName:Language.Basic<del>~en-US~0.0.1.0</strong></p><p>Example:</p>
+<td align="left"><p>Example:</p><p><strong>Dism /Online /Remove-Capability /CapabilityName:Language.Basic~~~en-US~0.0.1.0</strong></p><p>Example:</p>
 <p><strong>Dism /Image:C:\test\offline /Remove-Capability /CapabilityName:Language.Basic</del>~en-US~0.0.1.0</strong></p></td>
 </tr>
 </tbody>
