@@ -39,7 +39,7 @@ Windows HLK testing is based on feature detection. Windows HLK determines what a
 </tr>
 <tr class="even">
 <td><p>Requirement</p></td>
-<td><p>A requirement is the official specification that defines what a feature must do to qualify for the Windows hardware compatibility list. Requirements are organized using a namespace style. For example Device.Imaging.Scanner.Base.RawFileFormat is a requirement for the Device.Imaging.Scanner.Basefeature. There can be many requirements associated with a single feature.</p></td>
+<td><p>A requirement is the official specification that defines what a feature must do to qualify for the Windows hardware compatibility list. Requirements are organized using a namespace style. For example Device.Imaging.Scanner.Base.RawFileFormat is a requirement for the Device.Imaging.Scanner.Base feature. There can be many requirements associated with a single feature.</p></td>
 </tr>
 <tr class="odd">
 <td><p>Test</p></td>
