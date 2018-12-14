@@ -14,7 +14,7 @@ ms.topic: article
 # Deploy Windows RE
 
 
-Use these steps to deploy Windows® Recovery Environment (Windows RE) to a new computer, to help end users repair a PC when a system failure occurs.
+Use these steps to deploy Windows Recovery Environment (Windows RE) to a new computer, to help end users repair a PC when a system failure occurs.
 
 ## <span id="Prerequisites"></span><span id="prerequisites"></span><span id="PREREQUISITES"></span>Prerequisites
 
@@ -82,8 +82,6 @@ To complete this walkthrough, you need the following:
 
 
 **Note**   If you want to configure push-button reset features for Windows 8 editions, skip this section, and go to the topic: [Deploy Push-Button Reset Features](deploy-push-button-reset-features.md).
-
- 
 
 Configure your partitions as recovery partitions, and then conceal the drive letters so the partitions don't appear in common Windows menus, such as File Explorer.
 
