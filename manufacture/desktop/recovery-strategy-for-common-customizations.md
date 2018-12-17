@@ -21,7 +21,7 @@ To protect the packages from tampering or accidental deletion, the Write/Modify 
 
 Some settings and customizations cannot be included in provisioning packages. Instead, you can restore them using an unattend file applied using the Push-button reset extensibility points. For settings which are supported by both provisioning packages and unattend, it is recommended that you specify them using only one of the mechanisms, not both. To learn more, see [How push-button reset features work](how-push-button-reset-features-work.md).
 
-## Auto-Apply folders
+## <span id="auto-apply"></span>Auto-Apply folders
 
 **New in Windows 10, version 1809** Auto-apply folders make Push-button reset customizations easier to configure for the reset experience. This new method takes XML and related asset files and copies them to their corresponding location on the restored OS. Using Auto-apply folders simplifies the configuration process and helps to eliminate commonly-made mistakes that result in a misconfigured PBR.
 
@@ -56,7 +56,7 @@ The following table shows the available customizations and where to copy the con
 | Unattend.xml | C:\\Recovery\\AutoApply\\ | C:\\Recovery\\AutoApply\\CustomizationFiles |
 
 
-## <span id="Capturing_Classic_Windows_applications_using_Windows_User_State_Migration_Tool__USMT__s_ScanState_tool"></span><span id="capturing_windows_desktop_applications_using_windows_user_state_migration_tool__usmt__s_scanstate_tool"></span><span id="CAPTURING_WINDOWS_DESKTOP_APPLICATIONS_USING_WINDOWS_USER_STATE_MIGRATION_TOOL__USMT__S_SCANSTATE_TOOL"></span>Capturing Windows desktop applications using Windows User State Migration Tool (USMT)'s ScanState tool
+## <span id="desktop-apps"></span>Capturing Windows desktop applications using Windows User State Migration Tool (USMT)'s ScanState tool
 
 
 The Windows User State Migration Tool (USMT) ScanState.exe has been updated in Windows 10 to support capturing Windows desktop applications applications. This functionality can be activated by specifying the `/apps` option.
@@ -87,15 +87,7 @@ ScanState’s /apps option also supports the following optional parameters:
 -   When you prepare ScanState for capturing customizations, you should exclude Windows Defender settings to prevent possible failures during recovery that can be caused by file conflicts. For more information, see Step 1 in [Deploy push-button reset features](deploy-push-button-reset-features.md).
 
 
-
-## <span id="Creating_customization_packages_using__Windows_ICD"></span><span id="creating_customization_packages_using__windows_icd"></span><span id="CREATING_CUSTOMIZATION_PACKAGES_USING__WINDOWS_ICD"></span>Creating customization packages using Windows ICD
-
-
-For customizations involving settings which apply to all editions of Windows 10 (including Windows 10 Mobile), you can create provisioning packages using the Windows ICD.
-
-In build-to-stock (BTS) scenarios, if you have already captured your Windows desktop applications from your reference PC using the ScanState tool, you can import the output provisioning package into Windows ICD and specify additional settings which should be restored during recovery.
-
-## <span id="restoring_settings_using_unattend.xml_and_extensibility_scripts"></span><span id="RESTORING_SETTINGS_USING_UNATTEND.XML_AND_EXTENSIBILITY_SCRIPTS"></span>Restoring settings using unattend.xml and extensibility points
+## <span id="restoring_settings_using_unattend.xml_and_extensibility_scripts"></span>Restoring settings using unattend.xml and extensibility points
 
 > [!TIP]
 > **New in Windows 10, version 1809** You can use Auto-apply folders to automatically restore unattend.xml, layoutmodification.xml, and oobe.xml. If using Auto-apply folders, you don't have to configure extensibilty scripts as outlined below.
@@ -139,9 +131,10 @@ The following table outlines the recovery strategy for common customizations whi
 |           Mobile broadband – Rename "WiFi" to "WLAN" in network list            |                                                             Microsoft-Windows-SystemSettings \| WiFiToWlan setting in unattend.xml                                                             |              <ul><li>Use PBR extensibility points to restore unattend.xml from C:\Recovery\OEM</li></ul>or<ul><li>Auto-apply folders</li></ul>               |
 |         Mobile broadband – Enable Network Selection control in Settings         |                                                      Microsoft-Windows-SystemSettings \| DisplayNetworkSelection setting in unattend.xml                                                       |              <ul><li> Use PBR extensibility points to restore unattend.xml from C:\Recovery\OEM</li></ul>or<ul><li>Auto-apply folders</li></ul>              |
 |                    PC Settings – Preinstalled settings apps                     | Settings apps are preinstalled in the same way as any other app, and automatically appear in Settings. Capability declared in the app manifest determines whether it is a settings app or not. |                                                  Restored automatically along with other preinstalled apps                                                   |
-|                    Default browser and handlers of protocols                    |                                      Default application association settings XML file imported using the /Import-DefaultAppAssociations command in DISM                                       |                                      Use PBR extensibility points to re-import the XML from C:\Recovery\OEM using DISM                                       |
+|                    Default browser and handlers of protocols                    |                                      Default application association settings XML file imported using the /Import-DefaultAppAssociations command in DISM                                       |                                      <ul><li>Use PBR extensibility points to [Import Default App associations](export-or-import-default-application-associations.md)</li></ul> or <ul><li>Use an unattend file with a [RunSynchronousCommand](https://docs.microsoft.com/windows-hardware/customize/desktop/unattend/microsoft-windows-deployment-runsynchronous-runsynchronouscommand) to [Import Default App associations](export-or-import-default-application-associations.md), adding the unattend file to the auto-apply folders</li></ul>
+|
 |                   Support information in Contact Support app                    |                                                Settings under Microsoft-Windows-Shell-Setup \| OEMInformation in unattend.xml and logo.bmp file                                                |       <ul><li> Use PBR extensibility points to restore unattend.xml and .bmp file from C:\Recovery\OEM</li></ul>or<ul><li>Auto-apply folders</li></ul>       |
-|                             Store content modifier                              |                                                       Microsoft-Windows-Store-Client-UI \| StoreContentModifier setting in unattend.xml                                                        |                                      <ul><li> Use PBR extensibility points to restore unattend.xml from C:\Recovery\OEM                                      |
+|                             Store content modifier                              |                                                       Microsoft-Windows-Store-Client-UI \| StoreContentModifier setting in unattend.xml                                                        |                                      <ul><li> Use PBR extensibility points to restore unattend.xml from C:\Recovery\OEM</li> or <li>Auto-apply folders</li>                                      |
 | Windows desktop applications (including driver applets installed via setup.exe) |                                                                                    MSI or custom installers                                                                                    |             Use ScanState to capture and store the resulting PPKG under C:\Recovery\Customizations, which is restored automatically during PBR.              |
 |                                  RDX contents                                   |                                                                                     See UX WEG for details                                                                                     |                                                              Should not be restored during PBR                                                               |
 
