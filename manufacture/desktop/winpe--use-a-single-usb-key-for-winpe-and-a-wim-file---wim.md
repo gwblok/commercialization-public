@@ -114,7 +114,7 @@ If you are using Windows 10, Version 1607 or earlier and your PC only has one US
 
     -   `C:\images\install.wim` is the name and the location of the image file that you want to split.
 
-    -   `D:\images\install.swm` is the destination name and the location for the split .wim files.
+    -   `C:\images\install.swm` is the destination name and the location for the split .wim files.
 
     -   `4000` is the maximum size in MB for each of the split .wim files to be created.
 
