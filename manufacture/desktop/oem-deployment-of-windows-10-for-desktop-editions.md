@@ -693,7 +693,7 @@ Note: While it’s possible to add FODs using the /add-package command, we recom
 3. Add the .NET framework.
 
     ```
-    dism /image:C:\mount\windows /add-capability /capabilityname:NetFX3~~~ /Source:E:
+    dism /image:C:\mount\windows /add-capability /capabilityname:NetFX3~~~~ /Source:E:
     ```
     Where E: is the mounted FOD ISO.
 
