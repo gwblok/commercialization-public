@@ -80,7 +80,7 @@ To capture and deploy FFUs using the instructions below, you'll also need:
 
     This command also gives a name and description to the FFU image. Name is a required parameter.
 
-## Deploy Windows from WinPE using an FFU
+## <span id="DeployFFU"></span>Deploy Windows from WinPE using an FFU
 
 1. Boot your destination PC to WinPE.
 
