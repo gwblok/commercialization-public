@@ -36,7 +36,7 @@ There are two steps to creating your own BSP:
     ```
 
 > [!NOTE]
-> Raspberry Pi BSP driver sources are available at [ms-iot/bsp](https://github.com/ms-iot/bsp)
+> Raspberry Pi BSP driver sources are available at [ms-iot/rpi-iotcore](https://github.com/ms-iot/rpi-iotcore)
 
 ## Intel BSPs
 
@@ -60,11 +60,11 @@ Follow the steps below to use this BSP with the Windows 10 ADK release 1809 (177
     (or) open-ws C:\MyWorkspace
     ```
 
-3. Set the source location, either the installed directory or the zip file path 
+3. Set the source location, either the installed directory or the zip file path
 
     ``` powershell
     $Source = "C:\Program Files (x86)\Intel IoT\Source-<arch>"
-    (or) 
+    (or)
     $Source = "C:\Downloads\IntelBSP.zip"
     ```
 
@@ -96,10 +96,14 @@ Steps to create the drivers :
 
     ``` powershell
     Import-QCBSP "C:\Downloads\*_db410c_BSP.zip" C:\prebuilt\DB410c_BSP -ImportBSP
-    buildpkg QCDB401C
+    buildpkg QCDB410C
     ```
 
     Set `<BSPPkgDir>` setting in the IoTWorkspace.xml to `C:\prebuilt\DB410c_BSP`
+
+## NXP BSPs
+
+See [Window 10 IoT Core and NXP i.MX SoCs](https://docs.microsoft.com/windows/iot-core/learn-about-hardware/iotnxp) for information on the NXP BSP access and Ecosystem resources.
 
 ## Other helpful resources
 
