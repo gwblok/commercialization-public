@@ -96,7 +96,7 @@ Steps to create the drivers :
 
     ``` powershell
     Import-QCBSP "C:\Downloads\*_db410c_BSP.zip" C:\prebuilt\DB410c_BSP -ImportBSP
-    buildpkg QCDB401C
+    buildpkg QCDB410C
     ```
 
     Set `<BSPPkgDir>` setting in the IoTWorkspace.xml to `C:\prebuilt\DB410c_BSP`
