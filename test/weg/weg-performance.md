@@ -2,7 +2,7 @@
 Description: Provides partners with a roadmap to deliver high-performing and power-efficient PCs to customers
 MSHAttr: 'PreferredLib:/library/windows/hardware'
 title: Performance - Windows 10 Engineering Guide
-ms.author: eliotgra
+ms.author: dawnwood
 ms.date: 05/02/2017
 ms.topic: article
 
