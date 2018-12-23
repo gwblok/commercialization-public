@@ -1,12 +1,12 @@
 ---
 title: HMD Exerciser Kit Quick Start Guide
-author: eliotgra
+author: dawnwood
 description: The HMD Exerciser Kit automates validation of mixed reality (MR) head mounted displays (HMDs) and PCs.
 keywords:
 - HMD, testing
 - head mounted display, testing
 - HDMI USB testing 
-ms.author: eliotgra
+ms.author: dawnwood
 ms.date: 1/10/2018
 ms.topic: article
 

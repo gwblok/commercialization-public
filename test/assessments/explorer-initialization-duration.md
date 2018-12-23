@@ -1,8 +1,8 @@
 ---
 title: Explorer Initialization Duration
 description: On/Off assessment results for the Explorer initialization transition phase 
-author: eliotgra
-ms.author: eliotgra
+author: dawnwood
+ms.author: dawnwood
 ms.date: 11/17/2017
 ms.topic: article
 
