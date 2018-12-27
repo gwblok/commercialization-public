@@ -1,5 +1,5 @@
 ---
-author: kpacquer
+
 Description: 'You can add manufacturing profiles to your device by using a package.'
 ms.assetid: 9925eedf-a49e-4545-b071-72d10925f080
 MSHAttr: 'PreferredLib:/library/windows/hardware'

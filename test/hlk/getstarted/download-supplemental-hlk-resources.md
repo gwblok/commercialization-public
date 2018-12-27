@@ -1,8 +1,8 @@
 ---
 title: Download Supplemental HLK Resources
 description: 
-author: dawn.wood
-ms.author: dawnwood
+
+
 ms.date: 01/26/2018
 ms.topic: article
 

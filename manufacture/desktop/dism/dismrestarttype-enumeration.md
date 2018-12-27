@@ -2,7 +2,7 @@
 title: DismRestartType Enumeration
 description: DismRestartType Enumeration
 ms.assetid: 8ca81605-d8cf-4c92-a09a-f5d0114afb4b
-ms.author: kenpacq
+
 ms.date: 10/25/2017
 ms.topic: article
 

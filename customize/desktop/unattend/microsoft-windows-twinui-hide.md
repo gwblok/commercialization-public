@@ -4,8 +4,8 @@ description: Microsoft-Windows-TwinUI-Hide
 MSHAttr:
 - 'PreferredSiteName:MSDN'
 - 'PreferredLib:/library/windows/hardware'
-author: themar-msft
-ms.author: themar
+
+
 ms.date: 09/27/2017
 ms.topic: article
 

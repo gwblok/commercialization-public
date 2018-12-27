@@ -3,7 +3,7 @@ title: DismGetPackages function
 description: Lists each package in an image, providing basic information including the package name and type of package.
 ms.assetid: d04bafe0-7fdf-47c2-978e-fa0041525bac
 keywords: DismGetPackages function
-ms.author: kenpacq
+
 ms.date: 10/25/2017
 ms.topic: article
 

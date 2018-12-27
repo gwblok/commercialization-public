@@ -4,8 +4,8 @@ description: Generate a public/private key pair for customer data encryption and
 MSHAttr:
 - 'PreferredSiteName:MSDN'
 - 'PreferredLib:/library/windows/hardware'
-author: themar-msft
-ms.author: themar
+
+
 ms.date: 01/25/2018
 ms.topic: article
 

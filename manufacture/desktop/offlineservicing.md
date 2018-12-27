@@ -1,10 +1,10 @@
 ---
-author: kpacquer
+
 Description: offlineServicing
 ms.assetid: 8c921c85-c986-419c-9f93-bdacd9441abb
 MSHAttr: 'PreferredLib:/library/windows/hardware'
 title: offlineServicing
-ms.author: kenpacq
+
 ms.date: 05/02/2017
 ms.topic: article
 

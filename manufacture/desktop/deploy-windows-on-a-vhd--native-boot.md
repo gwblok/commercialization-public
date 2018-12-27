@@ -1,10 +1,10 @@
 ---
-author: kpacquer
+
 Description: 'Deploy Windows with a VHDX (Native Boot)'
 ms.assetid: 0802bca0-646e-4453-b78c-6257f1ed7e80
 MSHAttr: 'PreferredLib:/library/windows/hardware'
 title: 'Deploy Windows with a VHDX (Native Boot)'
-ms.author: kenpacq
+
 ms.date: 01/24/2018
 ms.topic: article
 

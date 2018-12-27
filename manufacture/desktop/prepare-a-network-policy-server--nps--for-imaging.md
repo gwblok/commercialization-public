@@ -1,10 +1,10 @@
 ---
-author: kpacquer
+
 Description: 'Prepare a Network Policy Server (NPS) for Imaging'
 ms.assetid: 7ac7f98a-f3db-4c54-a56a-fe766beb4344
 MSHAttr: 'PreferredLib:/library/windows/hardware'
 title: 'Prepare a Network Policy Server (NPS) for Imaging'
-ms.author: kenpacq
+
 ms.date: 05/02/2017
 ms.topic: article
 

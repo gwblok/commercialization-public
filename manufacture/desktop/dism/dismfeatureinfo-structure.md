@@ -3,7 +3,7 @@ title: DismFeatureInfo structure
 description: Describes advanced feature information, such as installed state and whether a restart is required after installation.
 ms.assetid: 746e08db-8de8-4a7a-b5b6-065979c76e56
 keywords: DismFeatureInfo structure
-ms.author: kenpacq
+
 ms.date: 10/25/2017
 ms.topic: article
 

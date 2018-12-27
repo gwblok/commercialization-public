@@ -1,5 +1,5 @@
 ---
-author: kpacquer
+
 Description: WlanMTEStartSelfTest
 ms.assetid: 6c583601-3d26-4a4a-b225-11c2b54ea59b
 MSHAttr: 'PreferredLib:/library/windows/hardware'

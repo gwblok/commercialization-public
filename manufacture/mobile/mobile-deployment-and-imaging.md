@@ -3,7 +3,7 @@ Description: 'Windows 10 Mobile brings the features available in Windows 10 to
 ms.assetid: 8ee995d9-420d-4bba-9ab0-decf4b3dc39b
 MSHAttr: 'PreferredLib:/library'
 title: Mobile deployment and imaging
-author: CelesteDG
+author: themar-msft
 ms.author: themar
 ms.date: 05/02/2017
 ms.topic: article

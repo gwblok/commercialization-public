@@ -3,7 +3,7 @@ title: DismMountedImageInfo structure
 description: Describes the metadata of a mounted image.
 ms.assetid: ad36728d-e34b-4dcb-91d6-eceea591fc37
 keywords: DismMountedImageInfo structure
-ms.author: kenpacq
+
 ms.date: 10/25/2017
 ms.topic: article
 

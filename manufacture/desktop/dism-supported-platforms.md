@@ -1,10 +1,10 @@
 ---
-author: kpacquer
+
 Description: DISM Supported Platforms
 ms.assetid: c52337e1-19a0-46d9-aa17-c5b704ea1949
 MSHAttr: 'PreferredLib:/library/windows/hardware'
 title: DISM Supported Platforms
-ms.author: kenpacq
+
 ms.date: 05/02/2017
 ms.topic: article
 

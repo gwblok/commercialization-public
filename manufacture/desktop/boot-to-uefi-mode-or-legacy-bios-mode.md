@@ -1,10 +1,10 @@
 ---
-author: kpacquer
+
 Description: Boot to UEFI Mode or legacy BIOS mode
 ms.assetid: 04ad6b97-b41d-40fd-88a7-d63d4722c336
 MSHAttr: 'PreferredLib:/library/windows/hardware'
 title: Boot to UEFI Mode or Legacy BIOS mode
-ms.author: kenpacq
+
 ms.date: 05/14/2018
 ms.topic: article
 

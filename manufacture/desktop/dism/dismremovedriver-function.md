@@ -3,7 +3,7 @@ title: DismRemoveDriver function
 description: Removes an out-of-box driver from an offline image.
 ms.assetid: 0555a39c-211d-407a-b8dd-135e7f7bf627
 keywords: DismRemoveDriver function
-ms.author: kenpacq
+
 ms.date: 10/25/2017
 ms.topic: article
 

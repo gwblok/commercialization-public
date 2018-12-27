@@ -3,7 +3,7 @@ title: DismImageInfo structure
 description: Describes the metadata of an image.
 ms.assetid: acd4cc5c-03f5-457b-a0a6-53034d80dc75
 keywords: DismImageInfo structure
-ms.author: kenpacq
+
 ms.date: 10/25/2017
 ms.topic: article
 

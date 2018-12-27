@@ -1,10 +1,10 @@
 ---
-author: kpacquer
+
 Description: Describes how to make changes to a Windows image, and the phases for when you can make changes.
 ms.assetid: 2e24e9e3-8216-4d8a-bd63-c61adddc6ac8
 MSHAttr: 'PreferredLib:/library/windows/hardware'
 title: Understanding Servicing Strategies
-ms.author: kenpacq
+
 ms.date: 05/02/2017
 ms.topic: article
 

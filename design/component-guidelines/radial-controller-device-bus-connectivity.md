@@ -1,10 +1,10 @@
 ---
 title: Windows Radial Controller Device Bus Connectivity
-author: windows-driver-content
+
 description: This topic discusses bus connectivity methods for a Windows radial controller device.
 ms.assetid:
 keywords: ["radial dial", "radial controller", "dial"]
-ms.author: eliotgra
+
 ms.date: 05/02/2017
 ms.topic: article
 

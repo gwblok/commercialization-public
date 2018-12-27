@@ -1,10 +1,10 @@
 ---
-author: kpacquer
+
 Description: 'Enable .NET Framework 3.5 by using the Add Roles and Features Wizard'
 ms.assetid: 08b011c7-7f15-4fd5-9a19-c99249e4f642
 MSHAttr: 'PreferredLib:/library/windows/hardware'
 title: 'Enable .NET Framework 3.5 by using the Add Roles and Features Wizard'
-ms.author: kenpacq
+
 ms.date: 05/02/2017
 ms.topic: article
 

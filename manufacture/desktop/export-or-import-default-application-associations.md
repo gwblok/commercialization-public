@@ -1,10 +1,10 @@
 ---
-author: kpacquer
+
 Description: Export or Import Default Application Associations
 ms.assetid: 87eb7510-df1a-4e3f-9cd4-5400fa6e1a07
 MSHAttr: 'PreferredLib:/library/windows/hardware'
 title: Export or Import Default Application Associations
-ms.author: kenpacq
+
 ms.date: 11/14/2018
 ms.topic: article
 

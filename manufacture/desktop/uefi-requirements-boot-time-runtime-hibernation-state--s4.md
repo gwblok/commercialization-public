@@ -1,11 +1,11 @@
 ---
-author: kpacquer
+
 Description: 'UEFI Requirements: Boot time, Runtime, Hibernation State (S4)'
 ms.assetid: 8fad2f32-6ff5-49db-9d34-041485a34a4c
 MSHAttr: 'PreferredLib:/library/windows/hardware'
 title: 'UEFI Requirements: Boot time, Runtime, Hibernation State (S4)'
 redirect_url: https://docs.microsoft.com/en-us/windows-hardware/design/device-experiences/oem-uefi
-ms.author: kenpacq
+
 ms.date: 05/02/2017
 ms.topic: article
 

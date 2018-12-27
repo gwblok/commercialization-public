@@ -1,10 +1,10 @@
 ---
-author: kpacquer
+
 Description: ResetConfig XML reference
 ms.assetid: dc9f16c9-d094-49d6-9aaf-3a02c381ccc0
 MSHAttr: 'PreferredLib:/library/windows/hardware'
 title: ResetConfig XML reference
-ms.author: kenpacq
+
 ms.date: 05/02/2017
 ms.topic: article
 

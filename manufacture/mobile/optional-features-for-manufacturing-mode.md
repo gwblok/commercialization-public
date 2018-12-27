@@ -1,5 +1,5 @@
 ---
-author: kpacquer
+
 Description: 'The following features can be used with devices running in Manufacturing Mode.'
 ms.assetid: 6f675ace-3f76-4421-8109-16fdf9e469fd
 MSHAttr: 'PreferredLib:/library/windows/hardware'

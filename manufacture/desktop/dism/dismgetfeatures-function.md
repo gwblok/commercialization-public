@@ -3,7 +3,7 @@ title: DismGetFeatures function
 description: Gets all the features in an image, regardless of whether the features are enabled or disabled.
 ms.assetid: 23f94c30-2353-45c2-b792-da537d1f1cd9
 keywords: DismGetFeatures function
-ms.author: kenpacq
+
 ms.date: 10/25/2017
 ms.topic: article
 

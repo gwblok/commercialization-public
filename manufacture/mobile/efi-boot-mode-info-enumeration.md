@@ -1,5 +1,5 @@
 ---
-author: kpacquer
+
 Description: 'Defines the possible boot modes that the operating system can use when it starts.'
 ms.assetid: cb78662f-8ce0-4adb-97ad-e8520c8513fd
 MSHAttr: 'PreferredLib:/library/windows/hardware'

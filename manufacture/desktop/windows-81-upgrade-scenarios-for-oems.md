@@ -1,10 +1,10 @@
 ---
-author: kpacquer
+
 Description: 'Windows 8.1 Upgrade Scenarios for OEMs'
 ms.assetid: 92f0ef1c-06e0-4f9b-8009-9567ae1bfaac
 MSHAttr: 'PreferredLib:/library/windows/hardware'
 title: 'Windows 8.1 Upgrade Scenarios for OEMs'
-ms.author: kenpacq
+
 ms.date: 05/02/2017
 ms.topic: article
 

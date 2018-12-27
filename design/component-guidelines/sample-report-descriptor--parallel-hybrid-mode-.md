@@ -9,7 +9,7 @@ MSHAttr:
 - 'PreferredLib:/library/windows/hardware'
 ms.assetid: 0144c939-b713-43d0-9460-b84854d1ca5d
 keywords: Windows Touch WDK, multitouch digitizer drivers, sample report descriptor (parallel/hybrid mode), multitouch digitizer drivers WDK, sample report descriptor (parallel/hybrid mode), parallel report WDK Touch, hybrid report WDK Touch
-ms.author: eliotgra
+
 ms.date: 05/02/2017
 ms.topic: article
 

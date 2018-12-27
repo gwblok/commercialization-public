@@ -9,7 +9,7 @@ MSHAttr:
 - 'PreferredLib:/library/windows/hardware'
 ms.assetid: 5e7e96a3-abe7-4df0-88db-a73d13e51906
 keywords: Windows Touch WDK, touch digitizer driver, touch digitizer driver WDK Touch, digitizer driver WDK Touch
-ms.author: eliotgra
+
 ms.date: 05/02/2017
 ms.topic: article
 

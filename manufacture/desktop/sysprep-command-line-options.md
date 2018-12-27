@@ -1,10 +1,10 @@
 ---
-author: kpacquer
+
 Description: 'Sysprep Command-Line Options'
 ms.assetid: b20ee6ea-b1c4-4cd2-91ea-52f667a704bb
 MSHAttr: 'PreferredLib:/library/windows/hardware'
 title: 'Sysprep Command-Line Options'
-ms.author: kenpacq
+
 ms.date: 05/02/2017
 ms.topic: article
 

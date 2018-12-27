@@ -1,10 +1,10 @@
 ---
-author: kpacquer
+
 Description: 'DISM overview'
 ms.assetid: ad08e68c-616f-404a-bfc6-c7bf1a4666f0
 MSHAttr: 'PreferredLib:/library/windows/hardware'
 title: 'DISM Overview'
-ms.author: kenpacq
+
 ms.date: 04/16/2018
 ms.topic: article
 

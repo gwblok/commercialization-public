@@ -7,7 +7,7 @@ MSHAttr:
 ms.assetid: a7e95c40-6529-4dc9-99eb-21fd81ec368a
 ms.mktglfcycl: plan
 ms.sitesec: msdn
-ms.author: dawnwood
+
 ms.date: 05/05/2017
 ms.topic: article
 

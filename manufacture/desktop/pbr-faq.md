@@ -1,10 +1,10 @@
 ---
-author: kpacquer
+
 Description: 'Push-button reset frequently-asked questions (FAQ)'
 ms.assetid: 80a313e3-6c2e-4768-9fec-78dd2876f024
 MSHAttr: 'PreferredLib:/library/windows/hardware'
 title: 'Push-button reset frequently-asked questions (FAQ)'
-ms.author: kenpacq
+
 ms.date: 05/02/2017
 ms.topic: article
 

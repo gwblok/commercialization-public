@@ -1,5 +1,5 @@
 ---
-author: kpacquer
+
 Description: 'You can determine whether the device is in Manufacturing Mode or not by using either a kernel mode or user mode API.'
 ms.assetid: fc888a9a-a004-4689-9972-a40b4d5ba50c
 MSHAttr: 'PreferredLib:/library/windows/hardware'

@@ -5,8 +5,8 @@ MSHAttr:
 - 'PreferredSiteName:MSDN'
 - 'PreferredLib:/library/windows/hardware'
 ms.assetid: 268d5950-04e6-4450-94a0-a3d902edc7e7
-author: themar-msft
-ms.author: themar
+
+
 ms.date: 12/6/2017
 ms.topic: article
 

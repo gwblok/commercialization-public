@@ -9,7 +9,7 @@ MSHAttr:
 - 'PreferredLib:/library/windows/hardware'
 ms.assetid: 563ecefc-8a42-477e-97ce-710ed1c97b35
 keywords: Windows Touch WDK, multitouch digitizer drivers, multitouch digitizer drivers WDK, sample report descriptor (serial reporting mode), serial report WDK Touch
-ms.author: eliotgra
+
 ms.date: 05/02/2017
 ms.topic: article
 

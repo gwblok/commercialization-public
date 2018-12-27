@@ -3,7 +3,7 @@ title: DismCustomProperty structure
 description: Describes the custom properties of a package.
 ms.assetid: 78a16e0f-97d4-4564-817f-052318836535
 keywords: DismCustomProperty structure
-ms.author: kenpacq
+
 ms.date: 10/25/2017
 ms.topic: article
 

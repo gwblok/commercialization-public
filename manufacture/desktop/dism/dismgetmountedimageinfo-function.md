@@ -3,7 +3,7 @@ title: DismGetMountedImageInfo function
 description: Returns an array of DismMountedImageInfo structures describing currently mounted images.
 ms.assetid: 6c1118ed-540d-4ce3-bc24-66b83e8a8790
 keywords: DismGetMountedImageInfo function
-ms.author: kenpacq
+
 ms.date: 10/25/2017
 ms.topic: article
 

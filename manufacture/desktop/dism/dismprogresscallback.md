@@ -2,7 +2,7 @@
 title: DismProgressCallback
 description: DismProgressCallback
 ms.assetid: 261a3763-86ed-4aea-b84d-bc3807c61c8c
-ms.author: kenpacq
+
 ms.date: 10/25/2017
 ms.topic: article
 

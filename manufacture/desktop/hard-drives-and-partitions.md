@@ -1,10 +1,10 @@
 ---
-author: kpacquer
+
 Description: Hard Drives and Partitions
 ms.assetid: bb453d9d-e819-4301-834d-09486d3e64e9
 MSHAttr: 'PreferredLib:/library/windows/hardware'
 title: Hard Drives and Partitions
-ms.author: kenpacq
+
 ms.date: 05/02/2017
 ms.topic: article
 

@@ -3,7 +3,7 @@ title: DismMountImage function
 description: Mounts a WIM or VHD image file to a specified location.
 ms.assetid: 0ae41269-8735-41ff-9dcd-f0274f0d194e
 keywords: DismMountImage function
-ms.author: kenpacq
+
 ms.date: 10/25/2017
 ms.topic: article
 

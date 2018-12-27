@@ -1,9 +1,9 @@
 ---
-author: kpacquer
+
 Description: 'Recovery and push button reset in Windows 10 S.'
 MSHAttr: 'PreferredLib:/library/windows/hardware'
 title: 'Recovery in Windows 10 S'
-ms.author: kenpacq
+
 ms.date: 07/07/2017
 ms.topic: article
 

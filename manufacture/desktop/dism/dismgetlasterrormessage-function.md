@@ -3,7 +3,7 @@ title: DismGetLastErrorMessage function
 description: Gets the error message in the current thread, immediately after a failure.
 ms.assetid: bd07d96b-e2b5-4d3a-8473-760087e5a3b1
 keywords: DismGetLastErrorMessage function
-ms.author: kenpacq
+
 ms.date: 10/25/2017
 ms.topic: article
 

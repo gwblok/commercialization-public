@@ -2,7 +2,7 @@
 title: DismFullyOfflineInstallableType Enumeration
 description: DismFullyOfflineInstallableType Enumeration
 ms.assetid: 672b270d-7a78-4797-80d2-d350c238b8cd
-ms.author: kenpacq
+
 ms.date: 10/25/2017
 ms.topic: article
 

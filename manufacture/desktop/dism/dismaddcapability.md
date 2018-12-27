@@ -3,7 +3,7 @@ title: DismAddCapability function
 description: Add a capability to an image.
 ms.assetid: 66708A01-4847-45C9-BE57-B26277A2BC29
 keywords: DismAddCapability function
-ms.author: kenpacq
+
 ms.date: 10/25/2017
 ms.topic: article
 

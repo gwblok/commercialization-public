@@ -2,8 +2,8 @@
 title: D3D12 - DXIL Core Test - ISub instruction
 Description: D3D12 - DXIL Core Test - MinMax instruction
 ms.assetid: 
-author: dawn.wood
-ms.author: dawnwood
+
+
 ms.date: 11/05/2018
 ms.topic: article
 

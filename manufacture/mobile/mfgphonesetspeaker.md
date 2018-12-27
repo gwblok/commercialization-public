@@ -1,5 +1,5 @@
 ---
-author: kpacquer
+
 Description: 'Sets a value indicating whether the phone speaker should be used, as opposed to the handset earphone.'
 ms.assetid: ae0382d0-01fc-40eb-ae3d-72242ac4aede
 MSHAttr: 'PreferredLib:/library/windows/hardware'

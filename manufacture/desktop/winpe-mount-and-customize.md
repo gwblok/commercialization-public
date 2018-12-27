@@ -1,10 +1,10 @@
 ---
-author: kpacquer
+
 Description: 'WinPE: Mount and Customize'
 ms.assetid: 5d5c13e8-8754-4fff-afd1-dcc3fb757bb9
 MSHAttr: 'PreferredLib:/library/windows/hardware'
 title: 'WinPE: Mount and Customize'
-ms.author: kenpacq
+
 ms.date: 4/24/2018
 ms.topic: article
 ms.custom: RS5

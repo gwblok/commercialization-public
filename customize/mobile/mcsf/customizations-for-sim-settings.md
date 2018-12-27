@@ -4,8 +4,8 @@ description: Describes the customizations for SIM settings.
 MSHAttr:
 - 'PreferredSiteName:MSDN'
 - 'PreferredLib:/library/windows/hardware'
-author: themar-msft
-ms.author: themar
+
+
 ms.date: 11/02/2017
 ms.topic: article
 

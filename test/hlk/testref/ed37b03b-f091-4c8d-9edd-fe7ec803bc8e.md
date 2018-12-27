@@ -2,8 +2,8 @@
 title: Audio APO - Verify APO Initializes - TestAPOInitialize
 Description: Audio APO - Verify APO Initializes - TestAPOInitialize
 ms.assetid: 
-author: dawn.wood
-ms.author: dawnwood
+
+
 ms.date: 11/05/2018
 ms.topic: article
 

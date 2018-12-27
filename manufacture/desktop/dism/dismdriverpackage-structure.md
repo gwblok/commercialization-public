@@ -3,7 +3,7 @@ title: DismDriverPackage structure
 description: Contains basic information for the driver that is associated with the .inf file.
 ms.assetid: ea048bd3-e0a2-4ffc-8ac0-cf61cb4c8f17
 keywords: DismDriverPackage structure
-ms.author: kenpacq
+
 ms.date: 10/25/2017
 ms.topic: article
 

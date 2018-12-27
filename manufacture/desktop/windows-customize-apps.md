@@ -1,9 +1,9 @@
 ---
-author: kpacquer
+
 Description: How to to preinstall apps in a Windows image
 MSHAttr: 'PreferredLib:/library/windows/hardware'
 title: Apps
-ms.author: kenpacq
+
 ms.date: 05/16/2018
 ms.topic: article
 ms.custom: RS5

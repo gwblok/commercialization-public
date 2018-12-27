@@ -2,7 +2,7 @@
 title: DISM API Enumerations
 description: DISM API Enumerations
 ms.assetid: b9bf3044-fd9d-4877-87e8-6f8435c55e35
-ms.author: kenpacq
+
 ms.date: 10/25/2017
 ms.topic: article
 

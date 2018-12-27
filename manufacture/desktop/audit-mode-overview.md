@@ -1,10 +1,10 @@
 ---
-author: kpacquer
+
 Description: Audit Mode Overview
 ms.assetid: c4d7921f-0709-40bd-bbc5-38fd793d6b88
 MSHAttr: 'PreferredLib:/library/windows/hardware'
 title: Audit Mode Overview
-ms.author: kenpacq
+
 ms.date: 11/28/2017
 ms.topic: article
 

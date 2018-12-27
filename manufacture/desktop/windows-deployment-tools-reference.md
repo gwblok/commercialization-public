@@ -1,9 +1,9 @@
 ---
-author: kpacquer
+
 Description: Windows deployment tools reference
 MSHAttr: 'PreferredLib:/library/windows/hardware'
 title: Deployment tools reference
-ms.author: kenpacq
+
 ms.date: 05/16/2018
 ms.topic: article
 ms.custom: RS5

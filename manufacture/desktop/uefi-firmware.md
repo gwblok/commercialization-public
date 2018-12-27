@@ -1,11 +1,11 @@
 ---
-author: kpacquer
+
 Description: UEFI Firmware
 ms.assetid: 63cab521-9f35-4428-85b6-5561889243fd
 MSHAttr: 'PreferredLib:/library/windows/hardware'
 title: UEFI Firmware
 redirect_url: https://docs.microsoft.com/en-us/windows-hardware/design/device-experiences/oem-uefi
-ms.author: kenpacq
+
 ms.date: 05/02/2017
 ms.topic: article
 

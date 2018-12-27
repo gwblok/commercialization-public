@@ -1,10 +1,10 @@
 ---
-author: kpacquer
+
 Description: Windows Server Deployment Options
 ms.assetid: fafca057-bbe5-423b-a53e-b97c21239cf2
 MSHAttr: 'PreferredLib:/library/windows/hardware'
 title: Windows Server Deployment Options
-ms.author: kenpacq
+
 ms.date: 05/02/2017
 ms.topic: article
 

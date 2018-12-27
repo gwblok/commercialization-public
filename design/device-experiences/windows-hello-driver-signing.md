@@ -4,7 +4,7 @@ description: Windows Hello fingerprint driver signature process
 MSHAttr:
 - 'PreferredSiteName:MSDN'
 - 'PreferredLib:/library/windows/hardware'
-ms.author: dawnwood
+
 ms.date: 07/19/2017
 ms.topic: article
 

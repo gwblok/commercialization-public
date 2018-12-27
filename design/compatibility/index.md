@@ -4,7 +4,7 @@ Description:
 ms.assetid: 
 MSHAttr: 
 author: beneluxboy
-ms.author: eliotgra
+
 ms.date: 01/23/2018
 ms.topic: article
 

@@ -1,7 +1,7 @@
 ---
 title: Select Tables Window
 description: Select Tables Window
-ms.author: dawnwood
+
 ms.date: 05/05/2017
 ms.topic: article
 ms.custom: RS5

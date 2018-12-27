@@ -1,9 +1,9 @@
 ---
-author: kpacquer
+
 Description: 'Planning a Windows 10 in S mode image.'
 MSHAttr: 'PreferredLib:/library/windows/hardware'
 title: 'Planning a Windows 10 in S mode image'
-ms.author: kenpacq
+
 ms.date: 06/07/2017
 ms.topic: article
 

@@ -1,10 +1,10 @@
 ---
-author: kpacquer
+
 Description: 'WinPE: Create WinPE RAM drive'
 MSHAttr: 'PreferredLib:/library/windows/hardware'
 title: 'WinPE: Create WinPE RAM drive'
 redirect_url: https://msdn.microsoft.com/windows/hardware/commercialize/manufacture/desktop/winpe-create-usb-bootable-drive
-ms.author: kenpacq
+
 ms.date: 05/02/2017
 ms.topic: article
 

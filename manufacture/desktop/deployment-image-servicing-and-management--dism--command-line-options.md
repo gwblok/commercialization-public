@@ -1,10 +1,10 @@
 ---
-author: kpacquer
+
 Description: 'Windows 10 DISM Command-Line Options'
 ms.assetid: 56e2f629-ee86-4ee3-9ba6-f8864cdf4ca3
 MSHAttr: 'PreferredLib:/library/windows/hardware'
 title: 'Windows 10 DISM Command-Line Options'
-ms.author: kenpacq
+
 ms.date: 05/02/2017
 ms.topic: article
 

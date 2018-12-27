@@ -3,7 +3,7 @@ title: DismCleanupMountPoints function
 description: Removes files and releases resources associated with corrupted or invalid mount paths.
 ms.assetid: 6906eaf2-4ccc-4e85-b49d-5200b2e6f729
 keywords: DismCleanupMountPoints function
-ms.author: kenpacq
+
 ms.date: 10/25/2017
 ms.topic: article
 

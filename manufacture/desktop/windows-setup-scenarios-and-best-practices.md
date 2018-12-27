@@ -1,10 +1,10 @@
 ---
-author: kpacquer
+
 Description: Windows Setup Scenarios and Best Practices
 ms.assetid: 651cb9c3-121d-40d3-9e17-47f1a78a000f
 MSHAttr: 'PreferredLib:/library/windows/hardware'
 title: Windows Setup Scenarios and Best Practices
-ms.author: kenpacq
+
 ms.date: 11/06/2017
 ms.topic: article
 

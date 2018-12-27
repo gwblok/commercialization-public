@@ -1,5 +1,5 @@
 ---
-author: kpacquer
+
 Description: 'If you want to test Manufacturing Mode, you can enable it by using ffutool.exe or by using a BCD setting.'
 ms.assetid: a5506896-0692-4256-a307-075da141ad44
 MSHAttr: 'PreferredLib:/library/windows/hardware'

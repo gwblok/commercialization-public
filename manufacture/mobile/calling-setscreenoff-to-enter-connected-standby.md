@@ -1,5 +1,5 @@
 ---
-author: kpacquer
+
 Description: Calling SetScreenOff to enter connected standby
 ms.assetid: b9fddd1f-485b-4b09-9b18-93b994ebc076
 MSHAttr: 'PreferredLib:/library/windows/hardware'

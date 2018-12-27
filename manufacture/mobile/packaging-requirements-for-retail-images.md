@@ -3,7 +3,7 @@ description: For mobile retail images, OEM firmware packages (sometimes referred
 MSHAttr: 'PreferredLib:/library/windows/hardware'
 title: Windows Standard Packaging Configuration (WSPC) requirements for retail images
 ms.assetid: d8b482d7-fc30-424a-9ce9-5aedf2dd5515
-ms.author: kenpacq
+
 ms.date: 11/02/2017
 ms.topic: article
 

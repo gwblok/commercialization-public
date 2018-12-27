@@ -1,10 +1,10 @@
 ---
-author: kpacquer
+
 Description: 'Create bootable WinPE media'
 ms.assetid: d60de9b6-6775-41e7-bc52-dfafede554df
 MSHAttr: 'PreferredLib:/library/windows/hardware'
 title: 'WinPE: Create bootable media'
-ms.author: kenpacq
+
 ms.date: 04/24/2018
 ms.topic: article
 ms.custom: RS5

@@ -1,10 +1,10 @@
 ---
-author: kpacquer
+
 Description: 'Windows Setup: Installing using the MBR or GPT partition style'
 ms.assetid: d8d8901f-9e0c-4f73-b331-8c0d36a1ba47
 MSHAttr: 'PreferredLib:/library/windows/hardware'
 title: 'Windows Setup: Installing using the MBR or GPT partition style'
-ms.author: kenpacq
+
 ms.date: 05/02/2017
 ms.topic: article
 

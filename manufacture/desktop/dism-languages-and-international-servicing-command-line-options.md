@@ -1,10 +1,10 @@
 ---
-author: kpacquer
+
 Description: 'DISM Languages and International Servicing Command-Line Options'
 ms.assetid: 6434373a-a7f9-43ff-be28-e4d48fa0b70f
 MSHAttr: 'PreferredLib:/library/windows/hardware'
 title: 'DISM Languages and International Servicing Command-Line Options'
-ms.author: kenpacq
+
 ms.date: 05/02/2017
 ms.topic: article
 

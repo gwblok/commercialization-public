@@ -1,9 +1,9 @@
 ---
-author: kpacquer
+
 ms.assetid: 0fbb2a9b-d3ce-4d7f-b68a-af641ceec96d
 MSHAttr: 'PreferredLib:/library/windows/hardware'
 title: 'WIM vs. VHD vs. FFU: comparing image file formats'
-ms.author: kenpacq
+
 ms.date: 10/17/2017
 ms.topic: article
 

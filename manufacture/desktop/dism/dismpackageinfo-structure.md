@@ -3,7 +3,7 @@ title: DismPackageInfo structure
 description: Describes detailed package information such as the client used to install the package, the date and time that the package was installed, and support information.
 ms.assetid: e52cd827-11e0-43c2-8f4a-ecc3cbc14585
 keywords: DismPackageInfo structure
-ms.author: kenpacq
+
 ms.date: 10/25/2017
 ms.topic: article
 

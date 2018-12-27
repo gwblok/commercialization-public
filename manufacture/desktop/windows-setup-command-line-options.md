@@ -1,10 +1,10 @@
 ---
-author: kpacquer
+
 Description: 'Windows Setup Command-Line Options'
 ms.assetid: 16001d04-db9f-4953-abc7-37903ef47fd1
 MSHAttr: 'PreferredLib:/library/windows/hardware'
 title: 'Windows Setup Command-Line Options'
-ms.author: kenpacq
+
 ms.date: 05/02/2017
 ms.topic: article
 ---

@@ -2,7 +2,7 @@
 title: DismPackageFeatureState Enumeration
 description: DismPackageFeatureState Enumeration
 ms.assetid: 0a21ef96-305a-4466-990c-628bd3291de3
-ms.author: kenpacq
+
 ms.date: 10/25/2017
 ms.topic: article
 

@@ -1,5 +1,5 @@
 ---
-author: kpacquer
+
 Description: 'Provides information about the state of the SIM.'
 ms.assetid: 8533be42-70de-433c-89ac-2c623d9b4397
 MSHAttr: 'PreferredLib:/library/windows/hardware'

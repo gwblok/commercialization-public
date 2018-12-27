@@ -1,10 +1,10 @@
 ---
-author: kpacquer
+
 Description: 'This guide walks you through creating Windows 10 IoT Core (IoT Core) images that can be flashed to retail devices and maintained after they have been delivered to your customers.'
 ms.assetid: 2b208536-20fc-42da-abf3-39bfb141276d
 MSHAttr: 'PreferredLib:/library'
 title: IoT Core manufacturing guide
-ms.author: kenpacq
+
 ms.date: 05/02/2017
 ms.topic: article
 

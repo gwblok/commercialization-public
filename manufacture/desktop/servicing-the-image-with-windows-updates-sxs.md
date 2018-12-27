@@ -1,10 +1,10 @@
 ---
-author: kpacquer
+
 Description: 'Add updates to a Windows image'
 ms.assetid: 9a8f525c-bb8f-492c-a555-0b512e44bcd1
 MSHAttr: 'PreferredLib:/library/windows/hardware'
 title: 'Add updates to a Windows image'
-ms.author: kenpacq
+
 ms.date: 05/02/2017
 ms.topic: article
 

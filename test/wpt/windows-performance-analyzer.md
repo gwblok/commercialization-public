@@ -8,7 +8,7 @@ Search.SourceType: Video
 ms.assetid: 92bde49c-e1ab-4ba0-82c8-f708a32bfacf
 ms.mktglfcycl: operate
 ms.sitesec: msdn
-ms.author: dawnwood
+
 ms.date: 05/05/2017
 ms.topic: article
 

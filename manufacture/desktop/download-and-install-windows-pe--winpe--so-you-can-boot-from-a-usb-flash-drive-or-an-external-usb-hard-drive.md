@@ -1,11 +1,11 @@
 ---
-author: kpacquer
+
 Description: 'Download and install Windows PE (WinPE) so you can boot from a USB flash drive or an external USB hard drive'
 ms.assetid: 1799a91f-493a-4509-9937-ad6901358240
 MSHAttr: 'PreferredLib:/library/windows/hardware'
 title: 'Download and install Windows PE (WinPE) so you can boot from a USB flash drive or an external USB hard drive'
 redirect_url: https://docs.microsoft.com/en-us/windows-hardware/manufacture/desktop/winpe-create-a-boot-cd-dvd-iso-or-vhd
-ms.author: kenpacq
+
 ms.date: 05/02/2017
 ms.topic: article
 

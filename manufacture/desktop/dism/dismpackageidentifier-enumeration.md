@@ -2,7 +2,7 @@
 title: DismPackageIdentifier Enumeration
 description: DismPackageIdentifier Enumeration
 ms.assetid: eeabc89d-70b0-4cd6-abf9-07cfd51cac87
-ms.author: kenpacq
+
 ms.date: 10/25/2017
 ms.topic: article
 

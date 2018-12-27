@@ -1,11 +1,11 @@
 ---
-author: kpacquer
+
 Description: 'Where is DISM?'
 ms.assetid: c7be3027-8aef-4a28-9a68-76d1e14db32b
 MSHAttr: 'PreferredLib:/library/windows/hardware'
 title: 'Where is DISM?'
 redirect_url: https://docs.microsoft.com/en-us/windows-hardware/manufacture/desktop/what-is-dism
-ms.author: kenpacq
+
 ms.date: 05/02/2017
 ms.topic: article
 

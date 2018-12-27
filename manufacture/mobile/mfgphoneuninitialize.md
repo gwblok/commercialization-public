@@ -1,5 +1,5 @@
 ---
-author: kpacquer
+
 Description: 'Uninitializes the phone system and the internal state of the API implemented by DLL.'
 ms.assetid: 7b82c8c8-6244-4f72-ab14-390a0757f120
 MSHAttr: 'PreferredLib:/library/windows/hardware'

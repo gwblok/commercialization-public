@@ -1,10 +1,10 @@
 ---
-author: kpacquer
+
 Description: How Configuration Passes Work
 ms.assetid: 11b434f9-b8a1-4159-ba8b-cf79ae47a995
 MSHAttr: 'PreferredLib:/library/windows/hardware'
 title: How Configuration Passes Work
-ms.author: kenpacq
+
 ms.date: 05/02/2017
 ms.topic: article
 

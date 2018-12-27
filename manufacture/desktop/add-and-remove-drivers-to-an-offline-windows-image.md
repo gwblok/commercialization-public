@@ -1,10 +1,10 @@
 ---
-author: kpacquer
+
 Description: Add and Remove Drivers to an Offline Windows Image
 ms.assetid: 71651630-2e26-4174-8161-8f83b8ae4bc3
 MSHAttr: 'PreferredLib:/library/windows/hardware'
 title: Add and Remove Drivers to an Offline Windows Image
-ms.author: kenpacq
+
 ms.date: 04/16/2018
 ms.topic: article
 ms.custom: RS5

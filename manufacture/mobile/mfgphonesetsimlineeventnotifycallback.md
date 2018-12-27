@@ -1,5 +1,5 @@
 ---
-author: kpacquer
+
 Description: 'Callback-based notification mechanism for receiving events on SIM-based phone lines.'
 ms.assetid: 58ca5582-71d0-4b33-a3b3-68374c6ed1d5
 MSHAttr: 'PreferredLib:/library/windows/hardware'

@@ -1,5 +1,5 @@
 ---
-author: kpacquer
+
 Description: Field service scenarios
 ms.assetid: 064509f8-902d-4ac8-85d9-7a405512d762
 MSHAttr: 'PreferredLib:/library/windows/hardware'

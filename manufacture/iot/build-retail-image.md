@@ -1,10 +1,10 @@
 ---
-author: kpacquer
+
 Description: 'Convert our test image to a retail build.'
 MS-HAID: 'p\_iot\_core.build\_retail\_image'
 MSHAttr: 'PreferredLib:/library'
 title: 'Lab 1f: Build a retail image'
-ms.author: kenpacq
+
 ms.date: 10/15/2018
 ms.topic: article
 

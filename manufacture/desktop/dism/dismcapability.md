@@ -3,7 +3,7 @@ title: DismCapability structure
 description: Describes capability basic information.
 ms.assetid: 3916441C-BF6B-48F2-85A8-6943A3689A5D
 keywords: DismCapability structure
-ms.author: kenpacq
+
 ms.date: 10/25/2017
 ms.topic: article
 

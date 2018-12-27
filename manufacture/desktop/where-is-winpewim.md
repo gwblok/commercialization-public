@@ -1,11 +1,11 @@
 ---
-author: kpacquer
+
 Description: 'Where is WinPE.wim?'
 ms.assetid: 21a05e67-84d6-417e-a789-5e1aef5914c9
 MSHAttr: 'PreferredLib:/library/windows/hardware'
 title: 'Where is WinPE.wim?'
 redirect_url: https://docs.microsoft.com/en-us/windows-hardware/manufacture/desktop/whats-new-in-windows-pe-s14
-ms.author: kenpacq
+
 ms.date: 05/02/2017
 ms.topic: article
 

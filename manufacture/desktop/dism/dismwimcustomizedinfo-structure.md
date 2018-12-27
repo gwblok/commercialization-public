@@ -3,7 +3,7 @@ title: DismWimCustomizedInfo structure
 description: DISM API functions for DismWimCustomizedInfo structure.
 ms.assetid: 6af542b2-8dd4-4b5d-bfcd-ec31454bb818
 keywords: DismWimCustomizedInfo structure
-ms.author: kenpacq
+
 ms.date: 10/25/2017
 ms.topic: article
 

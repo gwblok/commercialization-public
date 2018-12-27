@@ -1,10 +1,10 @@
 ---
-author: kpacquer
+
 Description: 'Fine-Tune a Custom Power Plan'
 ms.assetid: 3f3b0d9d-d84a-4b87-a271-159d80ebbcc7
 MSHAttr: 'PreferredLib:/library/windows/hardware'
 title: 'Fine-Tune a Custom Power Plan'
-ms.author: kenpacq
+
 ms.date: 05/02/2017
 ms.topic: article
 

@@ -1,11 +1,11 @@
 ---
-author: kpacquer
+
 Description: Factory Encrypted Drives
 ms.assetid: 3469481b-f380-4585-87c8-ca8a267fe607
 MSHAttr: 'PreferredLib:/library/windows/hardware'
 title: Factory Encrypted Drives
 redirect_url: https://docs.microsoft.com/en-us/windows-hardware/design/device-experiences/oem-factory-encrypted-drives
-ms.author: kenpacq
+
 ms.date: 05/02/2017
 ms.topic: article
 

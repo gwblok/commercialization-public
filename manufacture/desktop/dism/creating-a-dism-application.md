@@ -2,7 +2,7 @@
 title: Creating a DISM Application
 description: Creating a DISM Application
 ms.assetid: 9b75cfca-7931-4478-8cdc-21f18504f383
-ms.author: kenpacq
+
 ms.date: 10/25/2017
 ms.topic: article
 

@@ -1,8 +1,8 @@
 ---
 title: Main Path Boot Duration & Main Path Resume Duration
 description: On/Off assessment results for the main path boot & main path resume transition phases
-author: dawnwood
-ms.author: dawnwood
+
+
 ms.date: 11/17/2017
 ms.topic: article
 

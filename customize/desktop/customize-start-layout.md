@@ -4,8 +4,8 @@ description: Customize the start layout in Windows 10
 MSHAttr:
 - 'PreferredSiteName:MSDN'
 - 'PreferredLib:/library/windows/hardware'
-author: themar-msft
-ms.author: themar
+
+
 ms.date: 05/30/2018
 ms.topic: article
 

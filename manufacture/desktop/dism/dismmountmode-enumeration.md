@@ -2,7 +2,7 @@
 title: DismMountMode Enumeration
 description: DismMountMode Enumeration
 ms.assetid: aa14d860-bab5-475d-b243-95de5a3af9e5
-ms.author: kenpacq
+
 ms.date: 10/25/2017
 ms.topic: article
 

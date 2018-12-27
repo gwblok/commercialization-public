@@ -3,7 +3,7 @@ title: DismGetCapabilities function
 description: Gets DISM capabilities.
 ms.assetid: CB9E831C-A31B-4A46-91ED-756CE6F19B58
 keywords: DismGetCapabilities function
-ms.author: kenpacq
+
 ms.date: 10/25/2017
 ms.topic: article
 

@@ -1,5 +1,5 @@
 ---
-author: kpacquer
+
 Description: 'Reset Protection helps you secure a device in case it is stolen. It must be enabled on the device during manufacturing time.'
 ms.assetid: d9cd4f83-fb29-47cb-b26f-e82eb4d3bee8
 MSHAttr: 'PreferredLib:/library/windows/hardware'

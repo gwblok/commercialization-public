@@ -1,10 +1,10 @@
 ---
-author: kpacquer
+
 Description: High DPI Support for IT Professionals
 ms.assetid: 23b7a9c9-6313-4d8a-bb27-f497290d70db
 MSHAttr: 'PreferredLib:/library/windows/hardware'
 title: High DPI Support for IT Professionals
-ms.author: kenpacq
+
 ms.date: 05/02/2017
 ms.topic: article
 

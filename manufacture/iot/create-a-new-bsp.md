@@ -1,8 +1,8 @@
 ---
-author: kpacquer
+
 Description: 'Creating your own board support package (BSP)'
 title: 'Lab 2: Creating your own board support package (BSP)'
-ms.author: kenpacq
+
 ms.date: 10/15/2018
 ms.topic: article
 

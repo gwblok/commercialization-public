@@ -1,10 +1,10 @@
 ---
-author: kpacquer
+
 Description: Device Drivers
 ms.assetid: daa94074-a23d-4788-8e32-0e27c0a62d88
 MSHAttr: 'PreferredLib:/library/windows/hardware'
 title: Device Drivers
-ms.author: kenpacq
+
 ms.date: 05/02/2017
 ms.topic: article
 

@@ -1,10 +1,10 @@
 ---
-author: kpacquer
+
 Description: Windows Setup Configuration Passes
 ms.assetid: 42931b4a-7c3e-48f6-b03e-4e8d7d76643a
 MSHAttr: 'PreferredLib:/library/windows/hardware'
 title: Windows Setup Configuration Passes
-ms.author: kenpacq
+
 ms.date: 05/02/2017
 ms.topic: article
 

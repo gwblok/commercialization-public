@@ -1,10 +1,10 @@
 ---
-author: kpacquer
+
 Description: Deployment Troubleshooting and Log Files
 ms.assetid: 6dcada17-852e-4a2a-bc22-ebf3504b9ccc
 MSHAttr: 'PreferredLib:/library/windows/hardware'
 title: Deployment Troubleshooting and Log Files
-ms.author: kenpacq
+
 ms.date: 05/02/2017
 ms.topic: article
 

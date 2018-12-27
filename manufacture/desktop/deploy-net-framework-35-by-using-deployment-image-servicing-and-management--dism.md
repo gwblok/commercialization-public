@@ -1,10 +1,10 @@
 ---
-author: kpacquer
+
 Description: 'Deploy .NET Framework 3.5 by using Deployment Image Servicing and Management (DISM)'
 ms.assetid: c21b1e0f-d480-4f51-99d1-d5f7acba3a4a
 MSHAttr: 'PreferredLib:/library/windows/hardware'
 title: 'Deploy .NET Framework 3.5 by using Deployment Image Servicing and Management (DISM)'
-ms.author: kenpacq
+
 ms.date: 05/02/2017
 ms.topic: article
 

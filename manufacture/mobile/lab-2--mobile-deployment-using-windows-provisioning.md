@@ -3,7 +3,7 @@ Description: 'In this section, we''ll go through the process of customizing and 
 ms.assetid: 6e018255-b629-4d69-8b85-7a5c3ec53944
 MSHAttr: 'PreferredLib:/library'
 title: 'Part 2: Mobile deployment using Windows Provisioning'
-author: CelesteDG
+author: themar-msft
 ms.author: themar
 ms.date: 05/02/2017
 ms.topic: article

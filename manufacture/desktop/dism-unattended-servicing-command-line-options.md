@@ -1,10 +1,10 @@
 ---
-author: kpacquer
+
 Description: 'DISM Unattended Servicing Command-Line Options'
 ms.assetid: 698c8ad3-e292-45b2-9f74-d0e8885a7971
 MSHAttr: 'PreferredLib:/library/windows/hardware'
 title: 'DISM Unattended Servicing Command-Line Options'
-ms.author: kenpacq
+
 ms.date: 05/02/2017
 ms.topic: article
 

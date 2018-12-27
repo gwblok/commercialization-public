@@ -1,10 +1,10 @@
 ---
-author: kpacquer
+
 Description: 'Secure Boot isn''t configured correctly: Determine if the PC is in a manufacturing mode (info for manufacturers)'
 ms.assetid: 68f143f8-c689-474f-a7b7-2f0fe7b0f1ec
 MSHAttr: 'PreferredLib:/library/windows/hardware'
 title: 'Secure Boot isn''t configured correctly: Determine if the PC is in a manufacturing mode (info for manufacturers)'
-ms.author: kenpacq
+
 ms.date: 05/02/2017
 ms.topic: article
 

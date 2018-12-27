@@ -1,10 +1,10 @@
 ---
-author: kpacquer
+
 Description: 'Secure Boot Key Generation and Signing Using HSM (Example)'
 ms.assetid: b776b30c-28b5-4300-932a-a35a2e489074
 MSHAttr: 'PreferredLib:/library/windows/hardware'
 title: 'Secure Boot Key Generation and Signing Using HSM (Example)'
-ms.author: kenpacq
+
 ms.date: 05/02/2017
 ms.topic: article
 

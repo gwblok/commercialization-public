@@ -1,5 +1,5 @@
 ---
-author: kpacquer
+
 Description: WlanMTEAwake
 ms.assetid: a4e8a5af-5008-4643-afc0-036f59806528
 MSHAttr: 'PreferredLib:/library/windows/hardware'

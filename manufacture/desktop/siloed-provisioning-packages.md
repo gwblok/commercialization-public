@@ -1,9 +1,9 @@
 ---
-author: kpacquer
+
 Description: 'Overview of Siloed Provisioning Packages'
 MSHAttr: 'PreferredLib:/library/windows/hardware'
 title: 'Siloed provisioning packages'
-ms.author: kenpacq
+
 ms.date: 05/02/2017
 ms.topic: article
 

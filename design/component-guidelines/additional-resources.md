@@ -9,7 +9,7 @@ MSHAttr:
 - 'PreferredLib:/library/windows/hardware'
 ms.assetid: 9d35da6f-d82f-4370-9f75-0f9f99c84886
 keywords: driver certification WDK Touch, driver distribution WDK Touch, Windows Touch WDK, whitepapers, certifying drivers, distributing drivers, HID-related specifications
-ms.author: eliotgra
+
 ms.date: 05/02/2017
 ms.topic: article
 

@@ -3,8 +3,8 @@ title: Windows Hardware Compatibility Program Certification Process
 Description: 
 ms.assetid: 
 MSHAttr: 
-author: EliotSeattle
-ms.author: eliotgra
+
+
 ms.date: 01/23/2018
 ms.topic: article
 ms.custom: RS5

@@ -3,7 +3,7 @@ Description: 'You can use a feature manifest (FM) file to define specific types 
 ms.assetid: 5355eea8-550f-4ab5-ba1c-a37689a88b95
 MSHAttr: 'PreferredLib:/library'
 title: Add a package to an OEM manifest file
-author: CelesteDG
+author: themar-msft
 ms.author: themar
 ms.date: 05/02/2017
 ms.topic: article

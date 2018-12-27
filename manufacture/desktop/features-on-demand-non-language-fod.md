@@ -1,9 +1,9 @@
 ﻿---
-author: kpacquer
+
 Description: 'Features on Demand (capabilities), introduced in Windows 10, are Windows feature packages that can be added at any time. This page describes non-language FODs.'
 MSHAttr: 'PreferredLib:/library/windows/hardware'
 title: 'Available features on demand'
-ms.author: kenpacq
+
 ms.date: 11/26/2018
 ms.topic: article
 ms.custom: RS5

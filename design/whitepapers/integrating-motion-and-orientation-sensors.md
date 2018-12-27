@@ -2,7 +2,7 @@
 title: Integrating Motion and Orientation Sensors
 description: Motion and orientation sensor capabilities and requirements for Windows 10 and earlier operating systems.
 ms.assetid: 06FC01E0-8337-4704-9B44-4B8CC36A3AB5
-ms.author: eliotgra
+
 ms.date: 12/18/2017
 ms.topic: article
 

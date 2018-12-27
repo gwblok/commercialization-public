@@ -1,10 +1,10 @@
 ---
-author: kpacquer
+
 Description: Add languages to Windows images
 ms.assetid: 128cffa3-8c53-41c8-add2-fa10197f36a3
 MSHAttr: 'PreferredLib:/library/windows/hardware'
 title: Add languages to Windows images
-ms.author: kenpacq
+
 ms.date: 11/27/2018
 ms.topic: article
 ms.custom: RS5

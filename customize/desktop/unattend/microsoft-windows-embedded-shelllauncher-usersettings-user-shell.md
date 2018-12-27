@@ -11,8 +11,8 @@ MSHAttr:
 ms.assetid: 492E373A-C15E-4D4D-A7CC-842D430DAF21
 ms.mktglfcycl: deploy
 ms.sitesec: msdn
-author: themar-msft
-ms.author: themar
+
+
 ms.date: 05/02/2017
 ms.topic: article
 

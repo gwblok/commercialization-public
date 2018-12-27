@@ -3,7 +3,7 @@ title: DismDelete function
 description: Releases resources held by a structure or an array of structures returned by other DISM API Functions.
 ms.assetid: df65e1b2-65b2-4825-bc09-b46c99da742d
 keywords: DismDelete function
-ms.author: kenpacq
+
 ms.date: 10/25/2017
 ms.topic: article
 

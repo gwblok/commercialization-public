@@ -1,10 +1,10 @@
 ---
-author: kpacquer
+
 Description: 'Windows 10 for desktop editions (Home, Pro, Enterprise, and Education) only.'
 ms.assetid: b5f9740e-070c-48c0-9f79-42b25dfeb219
 MSHAttr: 'PreferredLib:/library/windows/hardware'
 title: 'DISM Capabilities Package Servicing Command-Line Options'
-ms.author: kenpacq
+
 ms.date: 05/02/2017
 ms.topic: article
 

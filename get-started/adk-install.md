@@ -1,14 +1,9 @@
 ---
-author: dawnwood
+title: Download and install the Windows ADK
 Description: Instructions on how to download and install the Windows ADK
 MSHAttr: 'PreferredLib:/library/windows/hardware'
-title: Download and install the Windows ADK
-author: dawnwood
-ms.author: dawnwood
 ms.date: 09/10/2018
 ms.topic: article
-
-
 ---
 # Download and install the Windows ADK
 

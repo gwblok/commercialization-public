@@ -3,7 +3,7 @@ title: DismGetFeatureInfo function
 description: Gets detailed info from for the specified feature.
 ms.assetid: 35514a46-e3e8-4d88-b151-527a855c8e89
 keywords: DismGetFeatureInfo function
-ms.author: kenpacq
+
 ms.date: 10/25/2017
 ms.topic: article
 

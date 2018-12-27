@@ -1,10 +1,10 @@
 ---
-author: kpacquer
+
 Description: 'Windows PE (WinPE)'
 ms.assetid: f20056af-adab-4d7a-83a0-f44c5a91e0d2
 MSHAttr: 'PreferredLib:/library/windows/hardware'
 title: 'Windows PE (WinPE)'
-ms.author: kenpacq
+
 ms.date: 10/02/2018
 ms.topic: article
 ms.custom: RS5

@@ -3,7 +3,7 @@ title: DismGetImageInfo function
 description: Returns an array of DismImageInfo structures that describe the images in a .wim or .vhd file.
 ms.assetid: 1b8570a4-1bdd-4c36-bd95-8b693ca61737
 keywords: DismGetImageInfo function
-ms.author: kenpacq
+
 ms.date: 10/25/2017
 ms.topic: article
 

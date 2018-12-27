@@ -1,9 +1,9 @@
 ---
-author: kpacquer
+
 Description: 'How to create a Windows 10 S image'
 MSHAttr: 'PreferredLib:/library/windows/hardware'
 title: 'Windows 10 in S mode deployment lab'
-ms.author: kenpacq
+
 ms.date: 04/20/2018
 ms.topic: article
 

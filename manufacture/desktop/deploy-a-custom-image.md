@@ -1,10 +1,10 @@
 ---
-author: kpacquer
+
 Description: Deploy a Custom Image
 ms.assetid: 7eb6bc78-d1ce-42f2-bf1a-b34c4b14ed66
 MSHAttr: 'PreferredLib:/library/windows/hardware'
 title: Deploy a Custom Image
-ms.author: kenpacq
+
 ms.date: 05/02/2017
 ms.topic: article
 

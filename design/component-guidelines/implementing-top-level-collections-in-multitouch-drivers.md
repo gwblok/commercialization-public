@@ -9,7 +9,7 @@ MSHAttr:
 - 'PreferredLib:/library/windows/hardware'
 ms.assetid: 7af88121-fed4-42ff-8bac-f42c213da77e
 keywords: Windows Touch WDK, multitouch digitizer drivers, multitouch digitizer drivers WDK, implementing top-level collections, top-level collections WDK Touch, multitouch digitizer drivers
-ms.author: eliotgra
+
 ms.date: 05/02/2017
 ms.topic: article
 

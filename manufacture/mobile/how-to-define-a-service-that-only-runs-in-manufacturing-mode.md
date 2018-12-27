@@ -1,5 +1,5 @@
 ---
-author: kpacquer
+
 Description: 'There may be cases where you want a service to be normally disabled but automatically run when the device is in Manufacturing Mode.'
 ms.assetid: 5504bade-5342-4006-9631-7321acd983ac
 MSHAttr: 'PreferredLib:/library/windows/hardware'

@@ -1,11 +1,11 @@
 ---
-author: kpacquer
+
 Description: 'What''s New in DISM'
 ms.assetid: f1b463c0-96b5-4ad2-afac-53f9baf475a3
 MSHAttr: 'PreferredLib:/library/windows/hardware'
 title: 'What''s New in DISM'
 redirect_url: https://docs.microsoft.com/en-us/windows-hardware/manufacture/desktop/what-is-dism
-ms.author: kenpacq
+
 ms.date: 05/02/2017
 ms.topic: article
 

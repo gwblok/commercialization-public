@@ -1,7 +1,7 @@
 ---
 title: Simultaneous pen and touch validation
 description: Validating for simultaneous pen and touch input.
-ms.author: eliotgra
+
 ms.date: 05/02/2017
 ms.topic: article
 

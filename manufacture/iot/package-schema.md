@@ -1,10 +1,10 @@
 ---
-author: kpacquer
+
 Description: Windows Universal OEM Package Schema
 ms.assetid: cbae6949-ccfe-4015-a9b0-a269f6f30d5a
 MSHAttr: 'PreferredLib:/library'
 title: Windows Universal OEM Package Schema
-ms.author: kenpacq
+
 ms.date: 09/02/2017
 ms.topic: article
 

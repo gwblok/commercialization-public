@@ -1,10 +1,10 @@
 ---
-author: kpacquer
+
 Description: Append, apply, and export volume images with a Windows Image (.wim) file
 ms.assetid: c537f8bb-05ed-48cd-b75a-a8c1ed3bc66f
 MSHAttr: 'PreferredLib:/library/windows/hardware'
 title: Append, apply, and export volume images with a Windows Image (.wim) file
-ms.author: kenpacq
+
 ms.date: 05/02/2017
 ms.topic: article
 

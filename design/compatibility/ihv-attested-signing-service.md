@@ -1,10 +1,6 @@
 ---
 title: IHV Attested Signing Service
-Description: 
-ms.assetid: 
-MSHAttr: 
-author: EliotSeattle
-ms.author: eliotgra
+Description: IHV Attested Signing Service
 ms.date: 01/23/2018
 ms.topic: article
 ms.custom: RS5

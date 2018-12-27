@@ -1,10 +1,10 @@
 ---
-author: kpacquer
+
 Description: Create a Custom Power Plan
 ms.assetid: d1d0e1b0-f15f-482c-9e9b-1b75a05dfeb3
 MSHAttr: 'PreferredLib:/library/windows/hardware'
 title: Create a Custom Power Plan
-ms.author: kenpacq
+
 ms.date: 05/02/2017
 ms.topic: article
 

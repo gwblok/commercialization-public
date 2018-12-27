@@ -1,10 +1,10 @@
 ---
-author: kpacquer
+
 Description: 'How to add Windows desktop applications and other data by using audit mode.'
 ms.assetid: 61e94d42-5d12-4c54-9efc-1e38ea94f750
 MSHAttr: 'PreferredLib:/library/windows/hardware'
 title: 'Create a provisioning package with Windows desktop applications'
-ms.author: kenpacq
+
 ms.date: 05/02/2017
 ms.topic: article
 

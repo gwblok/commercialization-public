@@ -1,5 +1,5 @@
 ---
-author: kpacquer
+
 Description: WlanMTETxSignal
 ms.assetid: 02a91cb8-de7b-4b96-aa41-7dab33a8d02e
 MSHAttr: 'PreferredLib:/library/windows/hardware'

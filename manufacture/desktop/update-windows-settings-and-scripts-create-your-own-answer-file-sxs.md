@@ -1,10 +1,10 @@
 ---
-author: kpacquer
+
 Description: 'Answer files (unattend.xml'
 ms.assetid: a29101dc-4922-44ee-a758-d555e6cf39fa
 MSHAttr: 'PreferredLib:/library/windows/hardware'
 title: 'Answer files (unattend.xml)'
-ms.author: kenpacq
+
 ms.date: 05/02/2017
 ms.topic: article
 

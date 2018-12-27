@@ -2,7 +2,7 @@
 title: Implementing Web Services on Devices for Printing
 description: Information about web services that provide a connection protocol for printing and scanning peripherals. The Web Services technology provides a common framework for describing and sharing information.
 ms.assetid: A7585276-FA63-4A5A-B1E9-549A1CD3FC05
-ms.author: eliotgra
+
 ms.date: 04/29/2015
 ms.topic: article
 

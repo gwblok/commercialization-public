@@ -1,10 +1,10 @@
 ---
-author: kpacquer
+
 Description: 'DISM Reference (Deployment Image Servicing and Management)'
 ms.assetid: 0f231dad-76ec-42eb-907f-7b3bf0ba0877
 MSHAttr: 'PreferredLib:/library/windows/hardware'
 title: 'DISM Reference (Deployment Image Servicing and Management)'
-ms.author: kenpacq
+
 ms.date: 05/02/2017
 ms.topic: article
 

@@ -1,10 +1,10 @@
 ---
-author: kpacquer
+
 Description: 'Microsoft .NET Framework 3.5 Deployment Considerations'
 ms.assetid: c231ba55-4181-47c0-bd16-f63e428f555f
 MSHAttr: 'PreferredLib:/library/windows/hardware'
 title: 'Microsoft .NET Framework 3.5 Deployment Considerations'
-ms.author: kenpacq
+
 ms.date: 05/02/2017
 ms.topic: article
 

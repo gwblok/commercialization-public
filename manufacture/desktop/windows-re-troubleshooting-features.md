@@ -1,10 +1,10 @@
 ---
-author: kpacquer
+
 Description: Windows RE troubleshooting features
 ms.assetid: 5812bba2-a4ed-4659-87b0-774de7a84bf5
 MSHAttr: 'PreferredLib:/library/windows/hardware'
 title: Windows RE troubleshooting features
-ms.author: kenpacq
+
 ms.date: 05/02/2017
 ms.topic: article
 

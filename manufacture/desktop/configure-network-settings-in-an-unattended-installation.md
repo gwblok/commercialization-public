@@ -1,10 +1,10 @@
 ---
-author: kpacquer
+
 Description: Configure Network Settings in an Unattended Installation
 ms.assetid: 447c1168-ff05-4ba6-9008-9fb458a4f478
 MSHAttr: 'PreferredLib:/library/windows/hardware'
 title: Configure Network Settings in an Unattended Installation
-ms.author: kenpacq
+
 ms.date: 05/02/2017
 ms.topic: article
 

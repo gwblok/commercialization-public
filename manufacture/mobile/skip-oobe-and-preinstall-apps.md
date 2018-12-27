@@ -1,5 +1,5 @@
 ---
-author: kpacquer
+
 Description: 'When you boot into Manufacturing Mode, can you skip OOBE and preinstall apps to run your manufacturing tests.'
 ms.assetid: e448479f-6831-40b5-bb19-7ad4c22cdf6a
 MSHAttr: 'PreferredLib:/library/windows/hardware'

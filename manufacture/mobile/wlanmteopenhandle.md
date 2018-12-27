@@ -1,5 +1,5 @@
 ---
-author: kpacquer
+
 Description: WlanMTEOpenHandle
 ms.assetid: 82017f67-a089-4c99-af7e-f10735db60c3
 MSHAttr: 'PreferredLib:/library/windows/hardware'

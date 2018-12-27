@@ -3,7 +3,7 @@ title: DismRemoveCapability function
 description: Add a capability to an image.
 ms.assetid: 0DF0B46F-7FCE-490D-A7CC-C81F2F16E86B
 keywords: DismRemoveCapability function
-ms.author: kenpacq
+
 ms.date: 10/25/2017
 ms.topic: article
 

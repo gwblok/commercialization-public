@@ -2,7 +2,7 @@
 title: DismImageIdentifier Enumeration
 description: DismImageIdentifier Enumeration
 ms.assetid: 964d4712-fb57-479a-a6a6-258640cf8e21
-ms.author: kenpacq
+
 ms.date: 10/25/2017
 ms.topic: article
 

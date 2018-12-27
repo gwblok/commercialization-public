@@ -1,10 +1,10 @@
 ---
-author: kpacquer
+
 Description: 'Languages'
 ms.assetid: 051a9952-c160-4f51-8575-bde6e4868b03
 MSHAttr: 'PreferredLib:/library/windows/hardware'
 title: 'Languages'
-ms.author: kenpacq
+
 ms.date: 11/7/2018
 ms.topic: article
 redirect_url: https://docs.microsoft.com/windows-hardware/manufacture/desktop/add-language-packs-to-windows

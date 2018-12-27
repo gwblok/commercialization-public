@@ -3,7 +3,7 @@ title: DismRemountImage function
 description: Remounts a previously mounted Windows image from the .wim or .vhd file.
 ms.assetid: 3cfbff39-569c-456e-b0ff-dd762e9c915f
 keywords: DismRemountImage function
-ms.author: kenpacq
+
 ms.date: 10/25/2017
 ms.topic: article
 

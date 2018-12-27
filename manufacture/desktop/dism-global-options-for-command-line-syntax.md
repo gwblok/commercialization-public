@@ -1,10 +1,10 @@
 ---
-author: kpacquer
+
 Description: 'DISM Global Options for Command-Line Syntax'
 ms.assetid: b902ff42-6718-48ca-878b-f3824d3229d4
 MSHAttr: 'PreferredLib:/library/windows/hardware'
 title: 'DISM Global Options for Command-Line Syntax'
-ms.author: kenpacq
+
 ms.date: 05/02/2017
 ms.topic: article
 

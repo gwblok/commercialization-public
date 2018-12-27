@@ -3,7 +3,7 @@ title: DismApplyUnattend function
 description: Applies an unattended answer file to a Windows® image.
 ms.assetid: e1d9903f-2b12-421b-8802-55a3e770ca1f
 keywords: DismApplyUnattend function
-ms.author: kenpacq
+
 ms.date: 10/25/2017
 ms.topic: article
 

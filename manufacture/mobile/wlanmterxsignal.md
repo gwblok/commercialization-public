@@ -1,5 +1,5 @@
 ---
-author: kpacquer
+
 Description: WlanMTERxSignal
 ms.assetid: eb475d1a-0692-44de-aada-1c8c85f2f500
 MSHAttr: 'PreferredLib:/library/windows/hardware'

@@ -2,8 +2,8 @@
 title: VM Texture Blend
 Description: VM Texture Blend
 ms.assetid: 
-author: dawn.wood
-ms.author: dawnwood
+
+
 ms.date: 11/05/2018
 ms.topic: article
 

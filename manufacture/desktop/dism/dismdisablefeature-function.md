@@ -3,7 +3,7 @@ title: DismDisableFeature function
 description: Disables a feature in the current image.
 ms.assetid: d6f6d7ae-a205-4981-b40c-390f16cbe088
 keywords: DismDisableFeature function
-ms.author: kenpacq
+
 ms.date: 10/25/2017
 ms.topic: article
 
