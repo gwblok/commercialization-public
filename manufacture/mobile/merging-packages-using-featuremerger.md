@@ -3,7 +3,6 @@ author: kpacquer
 title: Merging packages using FeatureMerger
 description: Merging packages using FeatureMerger
 MSHAttr: 'PreferredLib:/library/windows/hardware'
-ms.author: kpacquer
 ms.date: 11/02/2017
 ms.topic: article
 
