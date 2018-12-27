@@ -39,7 +39,15 @@
       "ms.prod": "windows-hardware",
       "ms.technology": "windows-oem"
     },
-    "fileMetadata": {},
+    "fileMetadata": {
+      "author":
+      {"*.md": "dawnwood" 
+      },
+      "ms.author": 
+      {"*.md" : "dawn.wood"
+      }
+
+    },
     "template": [],
     "dest": "oem-get-started",
     "markdownEngineName": "markdig"
