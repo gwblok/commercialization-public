@@ -374,7 +374,7 @@ The following columns are available for each row in the graph:
 </tr>
 <tr class="even">
 <td><p>Address</p></td>
-<td><p>The memory address of the function that is at the bottom of the stack.</p></td>
+<td><p>The memory address of the function that is at the top of the stack.</p></td>
 </tr>
 <tr class="odd">
 <td><p>All Count</p></td>
@@ -398,11 +398,11 @@ The following columns are available for each row in the graph:
 </tr>
 <tr class="even">
 <td><p>Function</p></td>
-<td><p>The function at the bottom of the stack.</p></td>
+<td><p>The function at the top of the stack.</p></td>
 </tr>
 <tr class="odd">
 <td><p>Module</p></td>
-<td><p>The module that contains the function at the bottom of the stack.</p></td>
+<td><p>The module that contains the function at the top of the stack.</p></td>
 </tr>
 <tr class="even">
 <td><p>Priority</p></td>
@@ -988,7 +988,7 @@ The **Stacks** column in the WPA UI contains an expander for each non-leaf node.
 1ms        ModuleC!Function2
 ```
 
-The `<itself>` node in a stack represents the time that a function itself is at the bottom of the stack. The `<itself>` node does not include the time that is spent in functions that are called by the parent function. That duration is called the *exclusive* time spent in the function.
+The `<itself>` node in a stack represents the time that a function itself is at the top of the stack. The `<itself>` node does not include the time that is spent in functions that are called by the parent function. That duration is called the *exclusive* time spent in the function.
 
 For example, **Function1** calls **Function2**. **Function2** spent 2ms in a CPU-intensive loop and called another function that ran for 4ms. This can be represented by the following stack:
 
