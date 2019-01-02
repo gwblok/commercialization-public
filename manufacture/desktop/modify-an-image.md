@@ -1,9 +1,9 @@
 ---
-author: kpacquer
+
 Description: Modify a Windows image
 MSHAttr: 'PreferredLib:/library/windows/hardware'
 title: Modify a Windows image
-ms.author: kenpacq
+
 ms.date: 05/16/2018
 ms.topic: article
 ms.custom: RS5

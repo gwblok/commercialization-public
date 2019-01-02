@@ -1,10 +1,10 @@
 ---
-author: kpacquer
+
 Description: 'Oobe.xml Settings'
 ms.assetid: 2c8ecddc-7099-451e-a069-642f654d4fbf
 MSHAttr: 'PreferredLib:/library/windows/hardware'
 title: 'Oobe.xml Settings'
-ms.author: kenpacq
+
 ms.date: 05/02/2017
 ms.topic: article
 

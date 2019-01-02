@@ -3,7 +3,7 @@ title: DismUnmountImage function
 description: Unmounts a Windows image from a specified location.
 ms.assetid: e1823a47-6de5-466e-80a6-5b5940d48a14
 keywords: DismUnmountImage function
-ms.author: kenpacq
+
 ms.date: 10/25/2017
 ms.topic: article
 

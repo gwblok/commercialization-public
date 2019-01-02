@@ -1,9 +1,9 @@
 ---
-author: kpacquer
+
 Description: Create Windows Universal OEM Packages
 MSHAttr: 'PreferredLib:/library'
 title: Create Windows Universal OEM Packages
-ms.author: kenpacq
+
 ms.date: 10/04/2017
 ms.topic: article
 

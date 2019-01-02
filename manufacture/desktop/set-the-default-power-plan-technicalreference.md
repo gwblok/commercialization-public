@@ -1,10 +1,10 @@
 ---
-author: kpacquer
+
 Description: Set the Default Power Plan
 ms.assetid: e6c722ae-29f4-4249-adbe-9121fdadcf4c
 MSHAttr: 'PreferredLib:/library/windows/hardware'
 title: Set the Default Power Plan
-ms.author: kenpacq
+
 ms.date: 05/02/2017
 ms.topic: article
 

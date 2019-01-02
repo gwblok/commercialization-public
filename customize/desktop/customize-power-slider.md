@@ -4,8 +4,8 @@ description: Set the default slider position on AC and DC, and configure power s
 MSHAttr:
 - 'PreferredSiteName:MSDN'
 - 'PreferredLib:/library/windows/hardware'
-author: themar-msft
-ms.author: themar
+
+
 ms.date: 10/17/2017
 ms.topic: article
 

@@ -1,10 +1,10 @@
 ---
-author: kpacquer
+
 Description: 'Test an appx file on an IoT device.'
 ms.assetid: ae043bb0-656e-4439-bdbe-a8d370629ab7
 MSHAttr: 'PreferredLib:/library'
 title: 'Test an appx file on an IoT device'
-ms.author: kenpacq
+
 ms.date: 05/02/2017
 ms.topic: article
 

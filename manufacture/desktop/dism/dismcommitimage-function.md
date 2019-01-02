@@ -3,7 +3,7 @@ title: DismCommitImage function
 description: Commits the changes made to a Windows® image in a mounted .wim or .vhd file.
 ms.assetid: bd4d3df9-7109-4ce5-a998-8afd0b5962a1
 keywords: DismCommitImage function
-ms.author: kenpacq
+
 ms.date: 10/25/2017
 ms.topic: article
 

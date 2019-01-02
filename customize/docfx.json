@@ -40,7 +40,15 @@
       "ms.prod": "windows-hardware",
       "ms.technology": "windows-oem"
     },
-    "fileMetadata": {},
+    "fileMetadata": {
+      "author":
+      {"*.md": "themar-msft" 
+      },
+      "ms.author": 
+      {"*.md" : "themar"
+      }
+
+    },
     "template": [],
     "dest": "oem-customize",
     "markdownEngineName": "markdig"

@@ -2,7 +2,7 @@
 title: Windows Keyboard Layouts
 description: Overview of keyboard layouts and gives guidelines for developing PS/2-based and human interface device (HID)-based keyboards.
 ms.assetid: CA733646-4BFF-47BA-BA87-68BFDB1311E7
-ms.author: eliotgra
+
 ms.date: 03/17/2015
 ms.topic: article
 

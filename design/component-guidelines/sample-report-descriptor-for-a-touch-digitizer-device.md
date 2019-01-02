@@ -9,7 +9,7 @@ MSHAttr:
 - 'PreferredLib:/library/windows/hardware'
 ms.assetid: d4f81529-8537-410f-a3d6-181eb83d8df2
 keywords: Windows Touch WDK, touch digitizer device, touch digitizer device WDK, sample report descriptor, digitizer device WDK Touch, sample report descriptor
-ms.author: eliotgra
+
 ms.date: 05/02/2017
 ms.topic: article
 

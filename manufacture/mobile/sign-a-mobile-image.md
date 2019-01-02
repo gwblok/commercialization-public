@@ -3,7 +3,7 @@ Description: 'You need to sign a mobile image before you can deploy it to a devi
 ms.assetid: b5f9d31b-7293-4308-a761-c5cc87801e3c
 MSHAttr: 'PreferredLib:/library'
 title: Sign a mobile image
-author: CelesteDG
+author: themar-msft
 ms.author: themar
 ms.date: 05/02/2017
 ms.topic: article

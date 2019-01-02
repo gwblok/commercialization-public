@@ -1,9 +1,9 @@
 ---
-author: kpacquer
+
 Description: 'Lab 6: Add universal Windows apps and taskbar pins'
 MSHAttr: 'PreferredLib:/library/windows/hardware'
 title: 'Lab 6: Add universal Windows apps and taskbar pins'
-ms.author: kenpacq
+
 ms.date: 10/16/2017
 ms.topic: article
 

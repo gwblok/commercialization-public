@@ -4,8 +4,8 @@ description: Describes the customizations that you can configure to enhance acce
 MSHAttr:
 - 'PreferredSiteName:MSDN'
 - 'PreferredLib:/library/windows/hardware'
-author: themar-msft
-ms.author: themar
+
+
 ms.date: 11/01/2017
 ms.topic: article
 

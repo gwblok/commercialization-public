@@ -1,5 +1,5 @@
 ---
-author: kpacquer
+
 Description: Resetting a device during manufacturing
 ms.assetid: d8a70a0c-1469-4ed7-b6f7-3124caca2e01
 MSHAttr: 'PreferredLib:/library/windows/hardware'

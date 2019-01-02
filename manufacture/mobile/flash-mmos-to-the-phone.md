@@ -1,5 +1,5 @@
 ---
-author: kpacquer
+
 Description: Flash MMOS to the device
 ms.assetid: 23b741e6-ba15-4a81-a78e-9545ff62c3af
 MSHAttr: 'PreferredLib:/library/windows/hardware'

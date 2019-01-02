@@ -1,10 +1,10 @@
 ---
-author: kpacquer
+
 Description: Windows Setup States
 ms.assetid: f67b1396-b2a5-4ac1-8104-7188e5cff54c
 MSHAttr: 'PreferredLib:/library/windows/hardware'
 title: Windows Setup States
-ms.author: kenpacq
+
 ms.date: 05/02/2017
 ms.topic: article
 

@@ -3,7 +3,7 @@ title: DismGetPackageInfo function
 description: Gets standard package properties as DismGetPackages, as well as more specific package information and custom properties.
 ms.assetid: d8888625-bb8c-4a44-b627-50404b040cc0
 keywords: DismGetPackageInfo function
-ms.author: kenpacq
+
 ms.date: 10/25/2017
 ms.topic: article
 

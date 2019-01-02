@@ -1,10 +1,10 @@
 ---
-author: kpacquer
+
 Description: 'High DPI and Windows 8.1'
 ms.assetid: e330d659-35f0-4178-b504-1e5a3bd169ca
 MSHAttr: 'PreferredLib:/library/windows/hardware'
 title: 'High DPI and Windows 8.1'
-ms.author: kenpacq
+
 ms.date: 05/02/2017
 ms.topic: article
 

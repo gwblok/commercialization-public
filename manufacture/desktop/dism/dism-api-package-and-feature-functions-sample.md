@@ -2,7 +2,7 @@
 title: DISM API Package and Feature Functions Sample
 description: DISM API Package and Feature Functions Sample
 ms.assetid: f5b04100-350d-43c3-8d1f-a2bcdfd19890
-ms.author: kenpacq
+
 ms.date: 10/25/2017
 ms.topic: article
 

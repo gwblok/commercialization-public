@@ -1,10 +1,10 @@
 ---
-author: kpacquer
+
 Description: Windows Deployment Options
 ms.assetid: e0bec895-af23-487c-993c-cc433827e0a8
 MSHAttr: 'PreferredLib:/library/windows/hardware'
 title: Windows Deployment Options
-ms.author: kenpacq
+
 ms.date: 05/02/2017
 ms.topic: article
 

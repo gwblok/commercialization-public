@@ -1,5 +1,5 @@
 ---
-author: kpacquer
+
 Description: Using a host PC to reboot a device to flashing mode and get version information
 ms.assetid: 19499cb0-b45d-4971-9934-778f17a87e52
 MSHAttr: 'PreferredLib:/library/windows/hardware'

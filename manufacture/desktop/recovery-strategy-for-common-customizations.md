@@ -1,10 +1,10 @@
 ---
-author: kpacquer
+
 Description: 'Push-button reset features by default restore only drivers (installed through INF packages) and preinstalled Windows apps.'
 ms.assetid: 909227f2-8969-4ab3-b296-c54977a38977
 MSHAttr: 'PreferredLib:/library/windows/hardware'
 title: Recovery components
-ms.author: kenpacq
+
 ms.date: 05/02/2017
 ms.topic: article
 ms.custom: RS5

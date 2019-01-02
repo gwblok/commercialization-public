@@ -2,8 +2,8 @@
 title: Win6_4.MB.GSM.Data.TestResetPassthrough
 Description: Win6_4.MB.GSM.Data.TestResetPassthrough
 ms.assetid: 
-author: dawn.wood
-ms.author: dawnwood
+
+
 ms.date: 11/05/2018
 ms.topic: article
 

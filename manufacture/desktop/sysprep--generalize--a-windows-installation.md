@@ -1,10 +1,10 @@
 ---
-author: kpacquer
+
 Description: 'Sysprep (Generalize) a Windows installation'
 ms.assetid: 455fa70e-6c13-45ae-ad4f-5d12e3b844e5
 MSHAttr: 'PreferredLib:/library/windows/hardware'
 title: 'Sysprep (Generalize) a Windows installation'
-ms.author: kenpacq
+
 ms.date: 05/02/2017
 ms.topic: article
 

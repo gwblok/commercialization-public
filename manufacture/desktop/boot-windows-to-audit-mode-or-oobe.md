@@ -1,10 +1,10 @@
 ---
-author: kpacquer
+
 Description: Boot Windows to Audit Mode or OOBE
 ms.assetid: a928dea9-52b1-42b9-bee1-cbe9c8c0b07b
 MSHAttr: 'PreferredLib:/library/windows/hardware'
 title: Boot Windows to Audit Mode or OOBE
-ms.author: kenpacq
+
 ms.date: 05/02/2017
 ms.topic: article
 

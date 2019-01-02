@@ -3,7 +3,7 @@ Description: 'You can use the Windows Imaging and Configuration Designer (ICD) U
 ms.assetid: bf897b96-2ab4-42c0-b825-34e7979b3761
 MSHAttr: 'PreferredLib:/library'
 title: Use the Windows ICD UI to customize and build a mobile image
-author: CelesteDG
+author: themar-msft
 ms.author: themar
 ms.date: 05/02/2017
 ms.topic: article

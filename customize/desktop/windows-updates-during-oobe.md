@@ -4,8 +4,8 @@ description: Describes how both critical and non-critical Windows updates can do
 MSHAttr:
 - 'PreferredSiteName:MSDN'
 - 'PreferredLib:/library/windows/hardware'
-author: themar-msft
-ms.author: themar
+
+
 ms.date: 04/30/2018
 ms.topic: article
 

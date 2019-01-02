@@ -1,10 +1,10 @@
 ---
-author: kpacquer
+
 Description: 'WinPE: Add drivers'
 ms.assetid: 9eecfba3-2a0d-4c38-8cec-6d5e839ae8d4
 MSHAttr: 'PreferredLib:/library/windows/hardware'
 title: 'WinPE: Add drivers'
-ms.author: kenpacq
+
 ms.date: 05/02/2017
 ms.topic: article
 

@@ -3,7 +3,7 @@ title: DismDriver structure
 description: Describes the architecture and hardware that the driver supports.
 ms.assetid: 86ddd0b9-d84a-4cc8-8137-d00a14a2e254
 keywords: DismDriver structure
-ms.author: kenpacq
+
 ms.date: 10/25/2017
 ms.topic: article
 

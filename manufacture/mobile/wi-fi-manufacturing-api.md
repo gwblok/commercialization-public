@@ -1,5 +1,5 @@
 ---
-author: kpacquer
+
 Description: 'Wi-Fi manufacturing API'
 ms.assetid: 014c7111-cb2f-43a9-a0d0-4b097261493e
 MSHAttr: 'PreferredLib:/library/windows/hardware'

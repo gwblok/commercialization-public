@@ -1,5 +1,5 @@
 ---
-author: kpacquer
+
 Description: 'You can also specify custom USBFN settings in a manufacturing profile that are only used when the device is in manufacturing mode.'
 ms.assetid: 0b95ffc6-f3c4-4b22-a48f-513466c36eac
 MSHAttr: 'PreferredLib:/library/windows/hardware'

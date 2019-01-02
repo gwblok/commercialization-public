@@ -3,7 +3,7 @@ title: DismAddPackage function
 description: Adds a single .cab or .msu file to a Windows® image.
 ms.assetid: 51897c3b-2916-4e5c-a7bc-be591ec9bf73
 keywords: DismAddPackage function
-ms.author: kenpacq
+
 ms.date: 10/25/2017
 ms.topic: article
 

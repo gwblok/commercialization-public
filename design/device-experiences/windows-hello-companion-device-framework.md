@@ -4,7 +4,7 @@ description: Windows Hello works with CDF
 MSHAttr:
 - 'PreferredSiteName:MSDN'
 - 'PreferredLib:/library/windows/hardware'
-ms.author: dawnwood
+
 ms.date: 05/02/2017
 ms.topic: article
 

@@ -1,10 +1,10 @@
 ---
-author: kpacquer
+
 Description: Get the tools needed to customize Windows
 ms.assetid: a52b4efe-ead0-4319-ae19-799d4e9d9e7b
 MSHAttr: 'PreferredLib:/library/windows/hardware'
 title: Get the tools needed to customize Windows
-ms.author: kenpacq
+
 ms.date: 05/02/2017
 ms.topic: article
 

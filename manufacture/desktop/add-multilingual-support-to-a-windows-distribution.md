@@ -1,10 +1,10 @@
 ---
-author: kpacquer
+
 Description: Add Multilingual Support to a Windows Distribution
 ms.assetid: 2da53fc7-4c4d-4cea-9a98-0db4eacd33d2
 MSHAttr: 'PreferredLib:/library/windows/hardware'
 title: Add Multilingual Support to a Windows Distribution
-ms.author: kenpacq
+
 ms.date: 05/02/2017
 ms.topic: article
 

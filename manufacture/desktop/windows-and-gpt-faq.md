@@ -1,9 +1,9 @@
 ---
-author: kpacquer
+
 Description: 'Frequently asked questions about Windows and GPT.'
 MSHAttr: 'PreferredLib:/library/windows/hardware'
 title: 'Windows and GPT FAQ'
-ms.author: kenpacq
+
 ms.date: 06/07/2017
 ms.topic: article
 

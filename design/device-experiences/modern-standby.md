@@ -8,7 +8,7 @@ MSHAttr:
 - 'PreferredSiteName:MSDN'
 - 'PreferredLib:/library/windows/hardware'
 ms.assetid: a5704441-d856-44ae-a3de-82c66af65098
-ms.author: eliotgra
+
 ms.date: 05/02/2017
 ms.topic: article
 

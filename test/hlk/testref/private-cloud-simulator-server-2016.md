@@ -1,8 +1,8 @@
 ---
 title: Private Cloud Simulator for Windows Server 2016
 description: Private Cloud Simulator for Windows Server 2016
-author: dawn.wood
-ms.author: dawnwood
+
+
 ms.date: 11/13/2018
 ms.topic: article
 ms.custom: RS5

@@ -1,5 +1,5 @@
 ---
-author: kpacquer
+
 Description: Determine if MMOS is running
 ms.assetid: 10069416-7093-47b1-a553-f0b8ef4b7c76
 MSHAttr: 'PreferredLib:/library/windows/hardware'

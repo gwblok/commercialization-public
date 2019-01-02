@@ -1,5 +1,5 @@
 ---
-author: kpacquer
+
 Description: 'This function supplies a boot mode and optional profile name to the firmware to use on subsequent boots.'
 ms.assetid: b4cc9267-0237-41eb-bce3-ced8247c42b5
 MSHAttr: 'PreferredLib:/library/windows/hardware'

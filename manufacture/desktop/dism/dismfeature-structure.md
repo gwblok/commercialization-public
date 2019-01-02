@@ -3,7 +3,7 @@ title: DismFeature structure
 description: Describes basic information about a feature, such as the feature name and feature state.
 ms.assetid: 43347e6a-ed58-4dcf-9a8c-e9e9017a582e
 keywords: DismFeature structure
-ms.author: kenpacq
+
 ms.date: 10/25/2017
 ms.topic: article
 

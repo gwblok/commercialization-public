@@ -1,5 +1,5 @@
 ---
-author: kpacquer
+
 Description: 'This function is used to retrieve the boot mode and optional profile name from the UEFI firmware.'
 ms.assetid: 389dab4d-9f74-4c33-9d02-9b6510581fd8
 MSHAttr: 'PreferredLib:/library/windows/hardware'

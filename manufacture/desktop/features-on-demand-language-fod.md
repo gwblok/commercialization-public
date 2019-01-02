@@ -1,9 +1,9 @@
 ---
-author: kpacquer
+
 Description: 'Features on Demand v2 (Capabilities), introduced in Windows 10, are Windows feature packages that can be added at any time. This topic covers language and region-related FODs.'
 MSHAttr: 'PreferredLib:/library/windows/hardware'
 title: 'Language and region Features on Demand'
-ms.author: kenpacq
+
 ms.date: 12/01/2017
 ms.topic: article
 ms.custom: RS5

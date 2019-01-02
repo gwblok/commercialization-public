@@ -1,5 +1,5 @@
 ---
-author: kpacquer
+
 Description: 'Causes the phone to dial a call.'
 ms.assetid: f01afc0d-70cf-4d13-8d99-fb27bb329376
 MSHAttr: 'PreferredLib:/library/windows/hardware'

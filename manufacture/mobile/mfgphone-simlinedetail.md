@@ -1,5 +1,5 @@
 ---
-author: kpacquer
+
 Description: 'Provides information about a particular SIM-based phone line.'
 ms.assetid: 004fe04e-48dc-4569-882a-035ca6918498
 MSHAttr: 'PreferredLib:/library/windows/hardware'

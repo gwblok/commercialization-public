@@ -1,10 +1,10 @@
 ---
-author: kpacquer
+
 Description: 'You can customize the Push-button reset experience by configuring extensibility points. This enables you to run custom scripts, install additional applications, or preserve additional user or application data.'
 ms.assetid: 147358d0-bae5-4f48-b02d-1ccc48bdcc2e
 MSHAttr: 'PreferredLib:/library/windows/hardware'
 title: 'Add a script to push-button reset features'
-ms.author: kenpacq
+
 ms.date: 05/02/2017
 ms.topic: article
 ms.custom: RS5

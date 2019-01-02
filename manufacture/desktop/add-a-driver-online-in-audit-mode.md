@@ -1,10 +1,10 @@
 ---
-author: kpacquer
+
 Description: Add a Driver Online in Audit Mode
 ms.assetid: 3b7e2d24-4bd4-4ca3-8e6f-2bd771ebab3b
 MSHAttr: 'PreferredLib:/library/windows/hardware'
 title: Add a Driver Online in Audit Mode
-ms.author: kenpacq
+
 ms.date: 05/02/2017
 ms.topic: article
 

@@ -1,5 +1,5 @@
 ---
-author: kpacquer
+
 Description: MMOS image definition
 ms.assetid: 3b548778-0551-4ca0-9768-725d0f33dfca
 MSHAttr: 'PreferredLib:/library/windows/hardware'

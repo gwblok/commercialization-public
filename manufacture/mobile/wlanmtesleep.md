@@ -1,5 +1,5 @@
 ---
-author: kpacquer
+
 Description: WlanMTESleep
 ms.assetid: 36b6f1e4-15a3-4e2c-8afb-a455d945aede
 MSHAttr: 'PreferredLib:/library/windows/hardware'

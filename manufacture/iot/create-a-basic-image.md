@@ -1,10 +1,10 @@
 ---
-author: kpacquer
+
 Description: 'To get started, we''ll create a basic Windows 10 IoT Core (IoT Core) image, flash it to a micro SD card, and put it into a device to make sure that everything''s working properly.'
 ms.assetid: aeba79b8-d8dd-481a-a8bf-03ae28174632
 MSHAttr: 'PreferredLib:/library'
 title: 'Lab 1a: Create a basic image'
-ms.author: kenpacq
+
 ms.date: 10/15/2018
 ms.topic: article
 

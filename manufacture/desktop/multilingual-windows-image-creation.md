@@ -1,10 +1,10 @@
 ---
-author: kpacquer
+
 Description: Multilingual Windows Image Creation
 ms.assetid: 5bec65d1-44b0-484c-a5b6-959f221a4290
 MSHAttr: 'PreferredLib:/library/windows/hardware'
 title: Multilingual Windows Image Creation
-ms.author: kenpacq
+
 ms.date: 05/02/2017
 ms.topic: article
 redirect_url: https://docs.microsoft.com/windows-hardware/manufacture/desktop/add-language-packs-to-windows

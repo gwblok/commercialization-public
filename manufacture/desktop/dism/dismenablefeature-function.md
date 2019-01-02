@@ -3,7 +3,7 @@ title: DismEnableFeature function
 description: Enables a feature in an image. Features are identified by a name and can optionally be tied to a package.
 ms.assetid: 46e0febe-47c0-432c-9db6-1a15d108c5bc
 keywords: DismEnableFeature function
-ms.author: kenpacq
+
 ms.date: 10/25/2017
 ms.topic: article
 

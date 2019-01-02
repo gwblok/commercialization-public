@@ -5,7 +5,7 @@ MSHAttr:
 - 'PreferredSiteName:MSDN'
 - 'PreferredLib:/library/windows/hardware'
 ms.assetid: AE0C4C51-7DD6-4A18-AEC4-DD01CB24A7A4
-ms.author: dawnwood
+
 ms.date: 05/05/2017
 ms.topic: article
 

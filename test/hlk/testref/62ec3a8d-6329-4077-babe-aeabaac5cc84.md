@@ -6,8 +6,8 @@ MSHAttr:
 - 'PreferredLib:/library/windows/hardware'
 Search.SourceType: Video
 ms.assetid: bde8be34-cee5-4e91-9a2d-31300c02e889
-author: dawn.wood
-ms.author: dawnwood
+
+
 ms.date: 11/05/2018
 ms.topic: article
 

@@ -9,7 +9,7 @@ MSHAttr:
 - 'PreferredLib:/library/windows/hardware'
 ms.assetid: 88277b23-aca2-4fba-9682-b9105608e169
 keywords: Windows Touch WDK, multitouch digitizer drivers, selecting packet reporting modes, packet reporting modes WDK Touch, packet reporting modes WDK Touch, selecting in multitouch drivers, multitouch digitizer drivers WDK, selecting packet reporting modes
-ms.author: eliotgra
+
 ms.date: 05/02/2017
 ms.topic: article
 

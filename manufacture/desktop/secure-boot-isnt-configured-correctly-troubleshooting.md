@@ -1,10 +1,10 @@
 ---
-author: kpacquer
+
 Description: 'Secure Boot isn''t configured correctly: troubleshooting'
 ms.assetid: a2b9b89f-9d42-4537-a3f8-0403cd67df16
 MSHAttr: 'PreferredLib:/library/windows/hardware'
 title: 'Secure Boot isn''t configured correctly: troubleshooting'
-ms.author: kenpacq
+
 ms.date: 05/02/2017
 ms.topic: article
 

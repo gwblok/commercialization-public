@@ -3,7 +3,7 @@ Description: 'An OEMInput file specifies the device platform, the feature manife
 ms.assetid: 67dc279e-a7f6-4686-bebf-6d0098d0f782
 MSHAttr: 'PreferredLib:/library'
 title: Configure the OEMInput file
-author: CelesteDG
+author: themar-msft
 ms.author: themar
 ms.date: 05/02/2017
 ms.topic: article

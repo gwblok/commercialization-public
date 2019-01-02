@@ -2,7 +2,7 @@
 title: DismImageType Enumeration
 description: DismImageType Enumeration
 ms.assetid: d41e1547-6e3b-4ff5-801f-8f810b4811fa
-ms.author: kenpacq
+
 ms.date: 10/25/2017
 ms.topic: article
 

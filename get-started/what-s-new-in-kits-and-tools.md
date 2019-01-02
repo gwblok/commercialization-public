@@ -3,8 +3,6 @@ title: What's new in the Windows ADK and ADK tools
 description: What's new in Windows ADK and ADK tools
 Search.SourceType: Video
 ms.assetid: EE27ABF7-C197-4E8E-AC1B-77266E2B9FD9
-author: dawnwood
-ms.author: dawnwood
 ms.date: 04/30/2018
 ms.topic: article
 

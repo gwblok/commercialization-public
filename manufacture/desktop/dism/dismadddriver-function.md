@@ -3,7 +3,7 @@ title: DismAddDriver function
 description: Adds a third party driver (.inf) to an offline Windows® image.
 ms.assetid: 0FE3AA80-258A-4661-8AEB-F5302F683748
 keywords: DismAddDriver function
-ms.author: kenpacq
+
 ms.date: 10/25/2017
 ms.topic: article
 

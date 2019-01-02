@@ -9,7 +9,7 @@ MSHAttr:
 - 'PreferredLib:/library/windows/hardware'
 ms.assetid: b744cf65-38c2-4296-a443-8797dbc62a09
 keywords: Windows Touch WDK, multitouch digitizer drivers, HID usages, Windows Touch WDK, HID additions, multitouch digitizer drivers WDK
-ms.author: eliotgra
+
 ms.date: 05/02/2017
 ms.topic: article
 

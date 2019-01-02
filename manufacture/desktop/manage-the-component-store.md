@@ -1,10 +1,10 @@
 ---
-author: kpacquer
+
 Description: Manage the Component Store
 ms.assetid: 97e222b5-67cf-4d05-a010-de3e5518cb60
 MSHAttr: 'PreferredLib:/library/windows/hardware'
 title: Manage the Component Store
-ms.author: kenpacq
+
 ms.date: 05/02/2017
 ms.topic: article
 

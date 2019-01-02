@@ -3,7 +3,7 @@ title: DismString structure
 description: DISM API functions that return strings wrap the heap allocated PCWSTR in a DismString structure.
 ms.assetid: f3246280-d805-45d8-9f79-18adb804822a
 keywords: DismString structure
-ms.author: kenpacq
+
 ms.date: 10/25/2017
 ms.topic: article
 

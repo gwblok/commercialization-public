@@ -1,10 +1,10 @@
 ---
-author: kpacquer
+
 Description: 'Boot to a virtual hard disk: Add a VHDX or VHD to the boot menu'
 ms.assetid: e00d7f8f-502c-40e5-904c-8cc653c1899e
 MSHAttr: 'PreferredLib:/library/windows/hardware'
 title: 'Boot to a virtual hard disk: Add a VHDX or VHD to the boot menu'
-ms.author: kenpacq
+
 ms.date: 01/24/2018
 ms.topic: article
 

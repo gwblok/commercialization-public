@@ -1,10 +1,10 @@
 ---
-author: kpacquer
+
 Description: 'These tools are part of the Windows 10 IoT Core (IoT Core) ADK Add-Ons, in the \\Tools folder. To learn more about these tools, see What''s in the Windows ADK IoT Core Add-ons.'
 ms.assetid: ae043bb0-656e-4439-bdbe-a8d370629ab7
 MSHAttr: 'PreferredLib:/library'
 title: 'IoT Core Add-ons command-line options'
-ms.author: kenpacq
+
 ms.date: 10/15/2018
 ms.topic: article
 

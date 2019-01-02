@@ -3,7 +3,7 @@ Description: 'You can now easily configure the default Start layout to include W
 ms.assetid: 99238b56-5c9c-4b5e-a750-e64a10e417af
 MSHAttr: 'PreferredLib:/library'
 title: Configure the Start layout
-author: CelesteDG
+author: themar-msft
 ms.author: themar
 ms.date: 05/02/2017
 ms.topic: article

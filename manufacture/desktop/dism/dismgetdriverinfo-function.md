@@ -3,7 +3,7 @@ title: DismGetDriverInfo function
 description: Gets information about an .inf file in a specified image.
 ms.assetid: 2f69fe15-d9a0-4282-8898-d5af06deb397
 keywords: DismGetDriverInfo function
-ms.author: kenpacq
+
 ms.date: 10/25/2017
 ms.topic: article
 

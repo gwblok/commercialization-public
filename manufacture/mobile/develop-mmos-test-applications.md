@@ -1,5 +1,5 @@
 ---
-author: kpacquer
+
 Description: Develop MMOS test applications
 ms.assetid: 1149e3d6-79d9-443e-9561-c030069eb79a
 MSHAttr: 'PreferredLib:/library/windows/hardware'

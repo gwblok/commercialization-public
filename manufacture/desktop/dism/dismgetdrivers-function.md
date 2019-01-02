@@ -3,7 +3,7 @@ title: DismGetDrivers function
 description: Lists the drivers in an image.
 ms.assetid: 49731558-d7ef-4fdc-839a-f6483f6e51ba
 keywords: DismGetDrivers function
-ms.author: kenpacq
+
 ms.date: 10/25/2017
 ms.topic: article
 

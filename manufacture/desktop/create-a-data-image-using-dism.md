@@ -1,10 +1,10 @@
 ---
-author: kpacquer
+
 Description: Create a Data Image Using DISM
 ms.assetid: e182335f-fe0e-4e85-8c2b-807d22af6d4b
 MSHAttr: 'PreferredLib:/library/windows/hardware'
 title: Create a Data Image Using DISM
-ms.author: kenpacq
+
 ms.date: 05/02/2017
 ms.topic: article
 

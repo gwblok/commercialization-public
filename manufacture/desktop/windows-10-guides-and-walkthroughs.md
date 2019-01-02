@@ -1,10 +1,10 @@
 ---
-author: kpacquer
+
 Description: OEM deployment guides and walkthroughs for Windows 10
 ms.assetid: f48b4681-bc59-4eb1-89c9-0163594467f7
 MSHAttr: 'PreferredLib:/library/windows/hardware'
 title: OEM deployment guides and Walkthroughs for Windows 10
-ms.author: kenpacq
+
 ms.date: 05/02/2017
 ms.topic: article
 

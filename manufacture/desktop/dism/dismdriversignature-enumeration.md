@@ -3,7 +3,7 @@ title: DismDriverSignature enumeration
 description: Specifies the signature status of a driver.
 ms.assetid: f93b49b6-e561-4155-8de4-5e4b8b561c6d
 keywords: DismDriverSignature enumeration
-ms.author: kenpacq
+
 ms.date: 10/25/2017
 ms.topic: article
 

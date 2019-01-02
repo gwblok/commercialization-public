@@ -1,11 +1,11 @@
 ---
-author: kpacquer
+
 Description: 'Lab 1: Customize and install Windows using the Windows Imaging and Configuration Designer (ICD)'
 ms.assetid: 97f2cc2b-ae4b-4117-a73b-42e508fe7a03
 MSHAttr: 'PreferredLib:/library/windows/hardware'
 title: 'Lab 1: Customize and install Windows using the Windows Imaging and Configuration Designer (ICD)'
 redirect_url: https://docs.microsoft.com/windows-hardware/manufacture/desktop/system-builder-deployment-of-windows-10-for-desktop-editions
-ms.author: kenpacq
+
 ms.date: 05/02/2017
 ms.topic: article
 

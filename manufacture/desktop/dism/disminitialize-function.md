@@ -3,7 +3,7 @@ title: DismInitialize function
 description: Initializes DISM API. DismInitialize must be called once per process, before calling any other DISM API functions.
 ms.assetid: e387b740-8c89-4de4-b736-b06a3b99fa57
 keywords: DismInitialize function
-ms.author: kenpacq
+
 ms.date: 10/25/2017
 ms.topic: article
 

@@ -3,7 +3,7 @@ title: DismPackage structure
 description: Describes basic information about a package, including the date and time that the package was installed.
 ms.assetid: 0140fe96-f0be-4ff3-a8ea-1a2e7c62c3fe
 keywords: DismPackage structure
-ms.author: kenpacq
+
 ms.date: 10/25/2017
 ms.topic: article
 

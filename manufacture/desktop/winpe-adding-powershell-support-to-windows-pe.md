@@ -1,10 +1,10 @@
 ---
-author: kpacquer
+
 Description: 'WinPE: Adding Windows PowerShell support to Windows PE'
 ms.assetid: 8b653cf6-3584-4c80-be84-ca32d60aeba2
 MSHAttr: 'PreferredLib:/library/windows/hardware'
 title: 'WinPE: Adding Windows PowerShell support to Windows PE'
-ms.author: kenpacq
+
 ms.date: 05/02/2017
 ms.topic: article
 ms.custom: RS5

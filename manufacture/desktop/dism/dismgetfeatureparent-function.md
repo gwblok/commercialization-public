@@ -3,7 +3,7 @@ title: DismGetFeatureParent function
 description: Gets the parent features of a specified feature.
 ms.assetid: b71b8567-6ea3-4800-a921-c5ddea2efdac
 keywords: DismGetFeatureParent function
-ms.author: kenpacq
+
 ms.date: 10/25/2017
 ms.topic: article
 

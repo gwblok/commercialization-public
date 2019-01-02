@@ -3,7 +3,7 @@ title: DismShutdown function
 description: Shuts down DISM API. DismShutdown must be called once per process.
 ms.assetid: 2a1593ed-ceb3-4944-a56d-9172e8c3ff72
 keywords: DismShutdown function
-ms.author: kenpacq
+
 ms.date: 10/25/2017
 ms.topic: article
 

@@ -1,10 +1,10 @@
 ---
-author: kpacquer
+
 Description: 'Learn how to create a WinREConfig.xml file for use with WinRE.'
 ms.assetid: af2b402f-9a5c-4c6a-8852-61039e5bec2a
 MSHAttr: 'PreferredLib:/library/windows/hardware'
 title: 'WinREConfig XML reference'
-ms.author: kenpacq
+
 ms.date: 03/12/2018
 ms.topic: article
 ms.custom: RS5

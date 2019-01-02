@@ -1,10 +1,10 @@
 ---
-author: kpacquer
+
 Description: Enable Remote Desktop by Using an Answer File
 ms.assetid: bee7ad87-7fb4-4313-baab-109a6f067ccc
 MSHAttr: 'PreferredLib:/library/windows/hardware'
 title: Enable Remote Desktop by Using an Answer File
-ms.author: kenpacq
+
 ms.date: 05/02/2017
 ms.topic: article
 

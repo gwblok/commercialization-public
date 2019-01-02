@@ -1,5 +1,5 @@
 ---
-author: kpacquer
+
 title: Merging packages using FeatureMerger
 description: Merging packages using FeatureMerger
 MSHAttr: 'PreferredLib:/library/windows/hardware'

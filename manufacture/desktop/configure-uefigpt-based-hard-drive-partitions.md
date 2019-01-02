@@ -1,10 +1,10 @@
 ---
-author: kpacquer
+
 Description: 'UEFI/GPT-based hard drive partitions'
 ms.assetid: a6c97be2-1d1f-4639-9771-3b17234370e6
 MSHAttr: 'PreferredLib:/library/windows/hardware'
 title: 'UEFI/GPT-based hard drive partitions'
-ms.author: kenpacq
+
 ms.date: 05/02/2017
 ms.topic: article
 

@@ -1,5 +1,5 @@
 ---
-author: kpacquer
+
 Description: Reporting operating mode capabilities
 ms.assetid: 1beda5a7-63d7-4519-955c-cc240733fc49
 MSHAttr: 'PreferredLib:/library/windows/hardware'

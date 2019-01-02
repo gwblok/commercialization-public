@@ -9,7 +9,7 @@ MSHAttr:
 - 'PreferredLib:/library/windows/hardware'
 Search.SourceType: Video
 ms.assetid: 3A66A4C9-83A7-47AC-9587-7F39E266FAFB
-ms.author: eliotgra
+
 ms.date: 05/02/2017
 ms.topic: article
 

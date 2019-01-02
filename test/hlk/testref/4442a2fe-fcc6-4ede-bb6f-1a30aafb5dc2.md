@@ -2,8 +2,8 @@
 title: Orientation sensor minimum report interval verification tests
 Description: Orientation sensor minimum report interval verification tests
 ms.assetid: 
-author: dawn.wood
-ms.author: dawnwood
+
+
 ms.date: 11/05/2018
 ms.topic: article
 

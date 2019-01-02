@@ -40,7 +40,14 @@
       "ms.prod": "windows-hardware",
       "ms.technology": "windows-oem"
     },
-    "fileMetadata": {},
+    "fileMetadata": { 
+      "author":
+      {"*.md": "eliotseattle" 
+      },
+      "ms.author": 
+      {"*.md" : "eliotgra"
+      }
+      },
     "template": [],
     "dest": "oem-design",
     "markdownEngineName": "markdig"

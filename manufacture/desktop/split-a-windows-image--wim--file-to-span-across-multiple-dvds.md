@@ -3,7 +3,7 @@ Description: 'Split a Windows image file (.wim) to span across multiple DVDs'
 ms.assetid: 3861fd65-4c2b-4955-a0af-233e0bbce454
 MSHAttr: 'PreferredLib:/library/windows/hardware'
 title: 'Split a Windows image file (.wim) to span across multiple DVDs'
-ms.author: kenpacq
+
 ms.date: 01/31/2018
 ms.topic: article
 

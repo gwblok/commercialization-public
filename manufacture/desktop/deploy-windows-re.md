@@ -1,10 +1,10 @@
 ---
-author: kpacquer
+
 Description: Deploy Windows RE
 ms.assetid: 93c71c50-b3f9-49f7-bf3a-32a412b048ed
 MSHAttr: 'PreferredLib:/library/windows/hardware'
 title: Deploy Windows RE
-ms.author: kenpacq
+
 ms.date: 05/02/2017
 ms.topic: article
 

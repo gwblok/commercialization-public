@@ -1,10 +1,10 @@
 ---
-author: kpacquer
+
 Description: 'Wpeutil Command-Line Options'
 ms.assetid: 6537713a-510e-40cd-8518-d1150422bfe8
 MSHAttr: 'PreferredLib:/library/windows/hardware'
 title: 'Wpeutil Command-Line Options'
-ms.author: kenpacq
+
 ms.date: 05/02/2017
 ms.topic: article
 ms.custom: RS5

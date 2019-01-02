@@ -2,7 +2,7 @@
 title: Device Profile For Web Services Location Extension
 description: Information about the Device Profile for Web Services Location Extension.
 ms.assetid: F60BEEAF-A002-46B3-8DDE-592B087BF43E
-ms.author: eliotgra
+
 ms.date: 04/29/2015
 ms.topic: article
 

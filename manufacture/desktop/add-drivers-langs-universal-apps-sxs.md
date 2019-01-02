@@ -1,9 +1,9 @@
 ---
-author: kpacquer
+
 Description: 'Lab 4: Add languages'
 MSHAttr: 'PreferredLib:/library/windows/hardware'
 title: 'Lab 4: Add languages'
-ms.author: kenpacq
+
 ms.date: 05/02/2017
 ms.topic: article
 

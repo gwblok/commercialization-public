@@ -1,10 +1,10 @@
 ---
-author: kpacquer
+
 Description: 'Configure More than Four Partitions on a BIOS/MBR-Based Hard Disk'
 ms.assetid: a1df0974-870f-498a-9994-5f614d8a308b
 MSHAttr: 'PreferredLib:/library/windows/hardware'
 title: 'Configure More than Four Partitions on a BIOS/MBR-Based Hard Disk'
-ms.author: kenpacq
+
 ms.date: 05/02/2017
 ms.topic: article
 

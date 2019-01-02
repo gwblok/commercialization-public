@@ -1,5 +1,5 @@
 ---
-author: kpacquer
+
 Description: WlanMTERegisterCallbackHandler
 ms.assetid: 7a61e9e2-fa0c-4c01-96c2-f3720aab7cde
 MSHAttr: 'PreferredLib:/library/windows/hardware'

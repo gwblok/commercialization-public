@@ -1,10 +1,10 @@
 ---
-author: kpacquer
+
 Description: 'Capture and Apply Windows, System, and Recovery Partitions'
 ms.assetid: db1f011f-2cf3-46b7-a386-8333f6214b9e
 MSHAttr: 'PreferredLib:/library/windows/hardware'
 title: 'Capture and Apply Windows, System, and Recovery Partitions'
-ms.author: kenpacq
+
 ms.date: 05/02/2017
 ms.topic: article
 

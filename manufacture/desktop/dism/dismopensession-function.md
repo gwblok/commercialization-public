@@ -3,7 +3,7 @@ title: DismOpenSession function
 description: Associates an offline or online Windows image with a DISMSession.
 ms.assetid: d078d3f1-96a2-4837-af50-5a9c996e792f
 keywords: DismOpenSession function
-ms.author: kenpacq
+
 ms.date: 10/25/2017
 ms.topic: article
 

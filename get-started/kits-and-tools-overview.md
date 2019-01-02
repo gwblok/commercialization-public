@@ -2,8 +2,6 @@
 title: Kits and tools overview
 description: An overview of the kits and tools needed for developing with Windows 10 Mobile and Windows 10.
 ms.assetid: F0055AF7-D679-4BC6-94C8-2FCD5832B9D8
-author: dawnwood
-ms.author: dawnwood
 ms.date: 05/02/2017
 ms.topic: article
 

@@ -1,10 +1,10 @@
 ---
-author: kpacquer
+
 Description: 'DISM Image Management Command-Line Options'
 ms.assetid: a6382d83-5748-4b08-9d9a-46ff576bac54
 MSHAttr: 'PreferredLib:/library/windows/hardware'
 title: 'DISM Image Management Command-Line Options'
-ms.author: kenpacq
+
 ms.date: 04/23/2018
 ms.topic: article
 

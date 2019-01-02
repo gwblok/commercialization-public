@@ -7,8 +7,8 @@ MSHAttr:
 ms.assetid: e3d92574-5ed4-423f-92f2-4340ef7f4948
 ms.mktglfcycl: deploy
 ms.sitesec: msdn
-author: themar-msft
-ms.author: themar
+
+
 ms.date: 05/02/2017
 ms.topic: article
 

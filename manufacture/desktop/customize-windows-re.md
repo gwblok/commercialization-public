@@ -1,10 +1,10 @@
 ---
-author: kpacquer
+
 Description: Customize Windows RE
 ms.assetid: ce94e3c4-03f6-46d1-b2a8-cc5d75c7a66d
 MSHAttr: 'PreferredLib:/library/windows/hardware'
 title: Customize Windows RE
-ms.author: kenpacq
+
 ms.date: 05/02/2017
 ms.topic: article
 ms.custom: RS5

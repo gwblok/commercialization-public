@@ -1,10 +1,10 @@
 ---
-author: kpacquer
+
 Description: 'Planning: Customizing reference images for different audiences'
 ms.assetid: b98343dd-bb5e-4904-9b40-f44cea88fbf0
 MSHAttr: 'PreferredLib:/library/windows/hardware'
 title: 'Planning: Customizing reference images for different audiences'
-ms.author: kenpacq
+
 ms.date: 05/02/2017
 ms.topic: article
 

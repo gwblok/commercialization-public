@@ -1,5 +1,5 @@
 ---
-author: kpacquer
+
 Description: 'Gets the number of currently detected SIM slots.'
 ms.assetid: 432b3748-4444-41b8-ac0b-f227d0f36aef
 MSHAttr: 'PreferredLib:/library/windows/hardware'

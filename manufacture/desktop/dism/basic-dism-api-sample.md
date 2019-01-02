@@ -2,7 +2,7 @@
 title: Basic DISM API Sample
 description: Basic DISM API Sample
 ms.assetid: 7ce87490-bd7e-42a5-8356-5fd8cae0a4b9
-ms.author: kenpacq
+
 ms.date: 10/25/2017
 ms.topic: article
 

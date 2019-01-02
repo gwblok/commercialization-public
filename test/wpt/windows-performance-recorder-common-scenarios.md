@@ -7,7 +7,6 @@ MSHAttr:
 ms.assetid: 217ECDF0-1B6D-4995-85DE-22708D608D5E
 ms.mktglfcycl: operate
 ms.sitesec: msdn
-ms.author: dawn.wood
 ms.date: 11/20/2018
 ms.topic: article
 ---

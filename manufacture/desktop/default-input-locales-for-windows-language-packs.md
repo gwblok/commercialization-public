@@ -1,10 +1,10 @@
 ---
-author: kpacquer
+
 Description: 'Input profiles (or input locales) describe the language of the input entered, and the keyboard on which it is being entered. When the first user logs into Windows and identifies their region, Windows sets the input profiles.'
 ms.assetid: 0bae00b5-dfcb-472e-a271-07ef62ad5fc5
 MSHAttr: 'PreferredLib:/library/windows/hardware'
 title: 'Default Input Profiles (Input Locales) in Windows'
-ms.author: kenpacq
+
 ms.date: 05/02/2017
 ms.topic: article
 

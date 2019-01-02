@@ -1,10 +1,10 @@
 ---
-author: kpacquer
+
 Description: generalize
 ms.assetid: 90b8329e-dc6a-49e6-ad6a-09c56b27f6e8
 MSHAttr: 'PreferredLib:/library/windows/hardware'
 title: generalize
-ms.author: kenpacq
+
 ms.date: 05/02/2017
 ms.topic: article
 

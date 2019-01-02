@@ -3,7 +3,7 @@ title: DismCloseSession function
 description: Closes a DISMSession created by DismOpenSession. This function does not unmount the image. To unmount the image, use the DismUnmountImage once all sessions are closed.
 ms.assetid: c52b57e3-e2d3-47f0-80a9-65d568e01ae3
 keywords: DismCloseSession function
-ms.author: kenpacq
+
 ms.date: 10/25/2017
 ms.topic: article
 

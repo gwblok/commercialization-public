@@ -2,7 +2,7 @@
 title: HID Sensors Usages
 description: This paper provides information about the HID Sensor Class Driver for Windows 8 and later operating systems. It provides guidelines for developing sensor hardware and firmware that take full advantage of, and work correctly with the in-box driver.
 ms.assetid: D8791FF2-2477-4688-96FA-73B9B5E3A94B
-ms.author: eliotgra
+
 ms.date: 11/05/2015
 ms.topic: article
 

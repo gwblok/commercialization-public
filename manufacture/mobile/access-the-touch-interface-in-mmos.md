@@ -1,5 +1,5 @@
 ---
-author: kpacquer
+
 Description: Access the touch interface in MMOS
 ms.assetid: 4455627d-ba59-48f1-9327-c9e2c30509da
 MSHAttr: 'PreferredLib:/library/windows/hardware'

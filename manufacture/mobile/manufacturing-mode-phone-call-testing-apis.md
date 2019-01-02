@@ -1,5 +1,5 @@
 ---
-author: kpacquer
+
 Description: 'These APIs are used by phone manufacturers to test phone call functionality while the device is booted into Manufacturing Mode.'
 ms.assetid: 3a1bdf3e-e95d-4277-bad7-1063a138f473
 MSHAttr: 'PreferredLib:/library/windows/hardware'

@@ -2,7 +2,7 @@
 title: DismImageHealthState Enumeration
 description: DismImageHealthState Enumeration
 ms.assetid: d1879143-8af1-4619-802c-126c9597ad6f
-ms.author: kenpacq
+
 ms.date: 10/25/2017
 ms.topic: article
 

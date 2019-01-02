@@ -4,8 +4,8 @@ description: Use Unattend to prevent some or all of the user interface (UI) page
 MSHAttr:
 - 'PreferredSiteName:MSDN'
 - 'PreferredLib:/library/windows/hardware'
-author: themar-msft
-ms.author: themar
+
+
 ms.date: 04/24/2018
 ms.topic: article
 ms.custom: RS5

@@ -1,5 +1,5 @@
 ---
-author: kpacquer
+
 Description: Flashing security requirements
 ms.assetid: 78c22243-e9a4-4394-9f91-5922c15286e8
 MSHAttr: 'PreferredLib:/library/windows/hardware'

@@ -4,8 +4,8 @@ description: IsAutobrightnessEnabledByDefault specifies whether autobrightness i
 MSHAttr:
 - 'PreferredSiteName:MSDN'
 - 'PreferredLib:/library/windows/hardware'
-author: themar-msft
-ms.author: themar
+
+
 ms.date: 10/02/2018
 ms.topic: article
 ms.prod: windows - hardware

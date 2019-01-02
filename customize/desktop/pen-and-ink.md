@@ -4,8 +4,8 @@ description: Customize Pen and Windows Ink settings
 MSHAttr:
 - 'PreferredSiteName:MSDN'
 - 'PreferredLib:/library/windows/hardware'
-author: themar-msft
-ms.author: themar
+
+
 ms.date: 10/05/2018
 ms.topic: article
 ms.custom: RS5

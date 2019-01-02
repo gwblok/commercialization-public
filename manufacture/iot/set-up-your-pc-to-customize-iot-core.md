@@ -1,9 +1,9 @@
 ---
-author: kpacquer
+
 ms.assetid: a6243b16-54fd-4a3d-8901-4b15cebdaf40
 MSHAttr: 'PreferredLib:/library'
 title: Get the tools needed to customize Windows IoT Core
-ms.author: kenpacq
+
 ms.date: 10/15/2018
 ms.topic: article
 

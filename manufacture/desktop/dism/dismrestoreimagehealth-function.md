@@ -3,7 +3,7 @@ title: DismRestoreImageHealth function
 description: Repairs a corrupted image that has been identified as repairable by DismCheckImageHealth.
 ms.assetid: ed9c0f9a-ada1-4eea-b741-ccff7ff1afff
 keywords: DismRestoreImageHealth function
-ms.author: kenpacq
+
 ms.date: 10/25/2017
 ms.topic: article
 

@@ -1,7 +1,7 @@
 ---
 title: Network Connection Settings
 description: "Under Network Connection, users have three choices for configuring network connectivity power settings"
-ms.author: eliotgra
+
 ms.date: 09/07/2017
 ms.topic: article
 

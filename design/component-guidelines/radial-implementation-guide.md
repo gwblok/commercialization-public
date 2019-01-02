@@ -1,10 +1,10 @@
 ---
 title: Windows Radial Controller Implementation Guide
-author: windows-driver-content
+
 description: This topic describes how to implement a radial controller starting in the Windows Anniversary Update.
 ms.assetid:
 keywords: ["radial dial", "radial controller", "dial"]
-ms.author: eliotgra
+
 ms.date: 05/02/2017
 ms.topic: article
 

@@ -9,8 +9,6 @@ author: alsepkow
 ms.author: alsepkow
 ms.date: 10/11/2018
 ms.topic: article
-
-
 ---
 
 # DXVA Testing Prerequisites

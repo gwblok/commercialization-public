@@ -2,7 +2,7 @@
 title: Deployment Image Servicing and Management (DISM) API
 description: Deployment Image Servicing and Management (DISM) API
 ms.assetid: 6138d878-71a1-49ad-8a34-c93ec6fa94a5
-ms.author: kenpacq
+
 ms.date: 10/25/2017
 ms.topic: article
 

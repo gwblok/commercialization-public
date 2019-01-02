@@ -1,8 +1,8 @@
 ---
-author: kpacquer
+
 Description: 'IoT Device Layout'
 title: 'IoT Device Layout'
-ms.author: kenpacq
+
 ms.date: 05/02/2017
 ms.topic: article
 

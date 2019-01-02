@@ -1,11 +1,11 @@
 ---
-author: kpacquer
+
 Description: Understanding Virtual Hard Disks with Native Boot
 ms.assetid: e063e475-6f39-4ed9-9473-ea7537adc30a
 MSHAttr: 'PreferredLib:/library/windows/hardware'
 title: Understanding Virtual Hard Disks with Native Boot
 redirect_url: https://docs.microsoft.com/en-us/windows-hardware/manufacture/desktop/deploy-windows-on-a-vhd--native-boot
-ms.author: kenpacq
+
 ms.date: 01/24/2018
 ms.topic: article
 

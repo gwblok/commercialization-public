@@ -1,10 +1,10 @@
 ---
-author: kpacquer
+
 Description: 'Windows Setup Supported Platforms and Cross-Platform Deployments'
 ms.assetid: 044cbb4f-7330-473d-8654-3371b2d6aff1
 MSHAttr: 'PreferredLib:/library/windows/hardware'
 title: 'Windows Setup Supported Platforms and Cross-Platform Deployments'
-ms.author: kenpacq
+
 ms.date: 05/02/2017
 ms.topic: article
 

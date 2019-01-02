@@ -1,7 +1,7 @@
 ---
 title: ConfigSnapshotByPIDEx 
 description: ConfigSnapshotByPIDEx
-ms.author: dawnwood
+
 ms.date: 11/15/2018
 ms.topic: article
 ---

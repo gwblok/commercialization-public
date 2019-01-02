@@ -1,10 +1,10 @@
 ---
-author: kpacquer
+
 Description: 'Push-button reset'
 ms.assetid: f3d01e46-2288-42b3-a662-1f9346aeb50f
 MSHAttr: 'PreferredLib:/library/windows/hardware'
 title: 'Push-button reset'
-ms.author: kenpacq
+
 ms.date: 05/02/2017
 ms.topic: article
 ms.custom: RS5

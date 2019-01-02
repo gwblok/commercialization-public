@@ -3,7 +3,7 @@ title: DismCheckImageHealth function
 description: Checks whether the image can be serviced or is corrupted.
 ms.assetid: 22039ad7-3cdb-491e-a396-b6fd8fa5f06a
 keywords: DismCheckImageHealth function
-ms.author: kenpacq
+
 ms.date: 10/25/2017
 ms.topic: article
 

@@ -4,8 +4,8 @@ description: Customize the COSA database of mobile operator profiles
 MSHAttr:
 - 'PreferredSiteName:MSDN'
 - 'PreferredLib:/library/windows/hardware'
-author: themar-msft
-ms.author: themar
+
+
 ms.date: 09/20/2017
 ms.topic: article
 

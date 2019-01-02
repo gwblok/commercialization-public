@@ -1,10 +1,10 @@
 ---
-author: kpacquer
+
 Description: 'DISM App Package (.appx or .appxbundle) Servicing Command-Line Options'
 ms.assetid: 3a2de7c0-d132-41ec-9603-a54e958fee2c
 MSHAttr: 'PreferredLib:/library/windows/hardware'
 title: 'DISM App Package (.appx or .appxbundle) Servicing Command-Line Options'
-ms.author: kenpacq
+
 ms.date: 03/14/2018
 ms.topic: article
 

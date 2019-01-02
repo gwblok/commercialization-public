@@ -2,7 +2,7 @@
 title: Integrating Ambient Light Sensors with Computers Running Windows 10 Creators Update
 description: This paper provides information about ambient light sensor (ALS) features in the Windows 10 operating system.
 ms.assetid: 2E8CCC17-D0DD-459A-9589-8CAAA0997D73
-ms.author: eliotgra
+
 ms.date: 05/12/2017
 ms.topic: article
 

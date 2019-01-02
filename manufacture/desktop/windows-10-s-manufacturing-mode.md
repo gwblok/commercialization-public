@@ -1,9 +1,9 @@
 ---
-author: kpacquer
+
 Description: 'Enable and disable manufacturing mode in Windows 10 in S mode'
 MSHAttr: 'PreferredLib:/library/windows/hardware'
 title: 'Windows 10 in S mode manufacturing mode'
-ms.author: kenpacq
+
 ms.date: 04/25/2018
 ms.topic: article
 

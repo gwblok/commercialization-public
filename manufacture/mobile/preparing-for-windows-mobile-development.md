@@ -3,7 +3,7 @@ Description: 'Here''s what you''ll need to start customizing, testing, and deplo
 ms.assetid: 57bc2066-0b27-4fcb-b938-1c73a361b212
 MSHAttr: 'PreferredLib:/library'
 title: Prepare for Windows mobile development
-author: CelesteDG
+author: themar-msft
 ms.author: themar
 ms.date: 05/02/2017
 ms.topic: article

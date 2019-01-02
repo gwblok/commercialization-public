@@ -2,7 +2,7 @@
 title: V4 print driver improvements
 description: Information about v4 print driver improvements in Windows 10.
 ms.assetid: 13190D01-CE26-41E5-9B87-836E2917EBD7
-ms.author: eliotgra
+
 ms.date: 04/29/2015
 ms.topic: article
 

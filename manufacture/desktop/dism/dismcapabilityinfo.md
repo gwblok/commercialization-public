@@ -3,7 +3,7 @@ title: DismCapabilityInfo structure
 description: Describes information about a capability.
 ms.assetid: 05A13309-ADDD-4AEA-B8E2-D87D05541735
 keywords: DismCapabilityInfo structure
-ms.author: kenpacq
+
 ms.date: 10/25/2017
 ms.topic: article
 

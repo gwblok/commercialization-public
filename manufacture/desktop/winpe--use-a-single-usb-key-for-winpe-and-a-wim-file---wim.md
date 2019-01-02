@@ -1,10 +1,10 @@
 ---
-author: kpacquer
+
 Description: 'WinPE: Store or split images to deploy Windows using a single USB drive'
 ms.assetid: 66036c4e-f64c-4175-b4fe-15e4cc1fc600
 MSHAttr: 'PreferredLib:/library/windows/hardware'
 title: 'WinPE: Store or split images to deploy Windows using a single USB drive'
-ms.author: kenpacq
+
 ms.date: 05/02/2017
 ms.topic: article
 

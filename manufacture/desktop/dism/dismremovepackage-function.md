@@ -3,7 +3,7 @@ title: DismRemovePackage function
 description: Removes a package from an image.
 ms.assetid: 23cfe5ee-0f47-4ebf-b956-d584420a98c6
 keywords: DismRemovePackage function
-ms.author: kenpacq
+
 ms.date: 10/25/2017
 ms.topic: article
 

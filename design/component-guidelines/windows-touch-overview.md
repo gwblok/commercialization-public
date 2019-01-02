@@ -9,7 +9,7 @@ MSHAttr:
 - 'PreferredLib:/library/windows/hardware'
 ms.assetid: 1373c522-bd9d-4b14-97c9-0c3db5bc9f2a
 keywords: Windows Touch WDK, about
-ms.author: eliotgra
+
 ms.date: 05/02/2017
 ms.topic: article
 

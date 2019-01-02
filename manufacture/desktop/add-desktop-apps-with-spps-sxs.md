@@ -1,10 +1,10 @@
 ---
-author: kpacquer
+
 Description: 'Lab 10: Add desktop applications and settings with siloed provisioning packages (SPPs)'
 ms.assetid: 142bc507-64db-43dd-8432-4a19af3c568c
 MSHAttr: 'PreferredLib:/library/windows/hardware'
 title: 'Lab 10: Add desktop applications and settings with siloed provisioning packages (SPPs)'
-ms.author: kenpacq
+
 ms.date: 05/02/2017
 ms.topic: article
 

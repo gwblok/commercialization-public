@@ -3,7 +3,7 @@ Description: 'In this section, we''ll go through the process of customizing and 
 ms.assetid: 036e2492-60da-4611-955f-67dfdfd32c16
 MSHAttr: 'PreferredLib:/library'
 title: 'Part 1: Classic mobile deployment'
-author: CelesteDG
+author: themar-msft
 ms.author: themar
 ms.date: 05/02/2017
 ms.topic: article

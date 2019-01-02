@@ -1,10 +1,10 @@
 ---
-author: kpacquer
+
 Description: 'Use DISM to work with Provisioning Packages (.ppkg) files. For example, you can add settings and Windows desktop applications to Windows 10, or reduce the size of your Windows installation.'
 ms.assetid: 205d296e-fced-429a-9e74-c445743ed7e9
 MSHAttr: 'PreferredLib:/library/windows/hardware'
 title: 'DISM Provisioning Package (.ppkg) Command-Line Options'
-ms.author: kenpacq
+
 ms.date: 05/02/2017
 ms.topic: article
 

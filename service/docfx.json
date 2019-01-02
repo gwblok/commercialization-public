@@ -39,7 +39,14 @@
       "ms.prod": "windows-hardware",
       "ms.technology": "windows-oem"
     },
-    "fileMetadata": {},
+    "fileMetadata": {
+      "author":
+      {"*.md": "kpacquer" 
+      },
+      "ms.author": 
+      {"*.md" : "kenpacq"
+      }
+    },
     "template": [],
     "dest": "oem-service",
     "markdownEngineName": "markdig"

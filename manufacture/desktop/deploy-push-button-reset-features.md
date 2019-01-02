@@ -1,10 +1,10 @@
 ---
-author: kpacquer
+
 Description: 'Push-button reset features are included with Windows 10 for desktop editions (Home, Pro, Enterprise, and Education), though you''ll need to perform additional steps to deploy PCs with the following customizations.'
 ms.assetid: f23d7e3f-0254-4fe8-9d61-5a58856c74be
 MSHAttr: 'PreferredLib:/library/windows/hardware'
 title: 'Deploy push-button reset features'
-ms.author: kenpacq
+
 ms.date: 05/02/2017
 ms.topic: article
 ms.custom: RS5

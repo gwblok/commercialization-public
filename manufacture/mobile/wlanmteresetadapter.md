@@ -1,5 +1,5 @@
 ---
-author: kpacquer
+
 Description: WlanMTEResetAdapter
 ms.assetid: bb87f719-3277-4fcc-aa9f-94ff1dac34f1
 MSHAttr: 'PreferredLib:/library/windows/hardware'

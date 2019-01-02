@@ -7,7 +7,7 @@ MSHAttr:
 ms.assetid: 46062275-1d15-4361-81c6-be4a2f15938d
 ms.mktglfcycl: operate
 ms.sitesec: msdn
-ms.author: dawnwood
+
 ms.date: 05/05/2017
 ms.topic: article
 
