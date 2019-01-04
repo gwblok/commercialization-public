@@ -271,7 +271,7 @@ By default, updates from media run <font face="courier">setuprollback.cmd</font>
 <font face="courier">setup.exe /auto upgrade /postrollback c:\Fabrikam\setuprollback.cmd</font><br />
 Path to folder that contains a script with the name: <b>setuprollback.cmd</b>: Copies setuprollback.cmd to $Windows.~BT to be run after OOBE.<br />
 <font face="courier">setup.exe /auto upgrade /postrollback \server\share</font><br />
-<font face="courier">setup.exe /postrollback C:\Fabrikamsetuprollback.cmd /postrollbackcontext user</font><br />
+<font face="courier">setup.exe /postrollback C:\Fabrikam\setuprollback.cmd /postrollbackcontext user</font><br />
 <font face="courier">/postrollbackcontext</font> is new for Windows 10, version 1803. </p></td>
 </tr>
 <tr>
